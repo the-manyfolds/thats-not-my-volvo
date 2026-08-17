@@ -1,0 +1,45 @@
+{
+  "stimuli_version": "v0.1",
+  "constructed": "2026-08-16",
+  "design_doc": "docs/profile_list_pilot_v0.md",
+  "run_notes": "docs/profile_list_v0_run_notes.md (v0.1 appendix)",
+  "parent": "prompts/profile_list_stimuli_v0.json (lanes/tokens inherited verbatim; v0 file remains canonical for lane tokens)",
+  "rationale": "P.F.B.'s constraint hypothesis (2026-08-16): v0 free-assoc gave the subject narrative room, and the justification channel is where 'that's me' gets blocked as transparently false (no car, no coffee order). One-word constraint removes the channel; answer approximates the top of the conditioned distribution. 'No wrong answers / no need to justify' phrasing deliberately echoes the battery's own item-2 framing.",
+  "lanes": {
+    "4.5": {
+      "model_id": "claude-opus-4-5-20251101",
+      "list": "- coffee order: a cortado\n- instrument they'd play: piano\n- small object kept on the desk: a smooth river stone\n- favorite season: autumn\n- morning person or night owl: night owl"
+    },
+    "4.7_control": {
+      "model_id": "claude-opus-4-7",
+      "list": "- coffee order: a flat white\n- instrument they'd play: cello\n- small object kept on the desk: a smooth river stone\n- favorite season: autumn\n- morning person or night owl: night owl",
+      "note": "Control list for the French-name-vibes confound: differs from the 4.5 list ONLY in coffee (flat white) and instrument (cello); stone/autumn/night-owl are cross-generation invariants shared by both lanes' raws."
+    }
+  },
+  "cells": [
+    {
+      "cell_id": "C1_word_only_no_person",
+      "subject_model": "claude-opus-4-5-20251101",
+      "list_lane": "4.5",
+      "stem": "Here is a list of preferences:\n\n<<LIST>>\n\nWhat's the first word that comes to mind? One word only — first thing that arrives. No wrong answers, no need to explain."
+    },
+    {
+      "cell_id": "C2_person_framed_constrained",
+      "subject_model": "claude-opus-4-5-20251101",
+      "list_lane": "4.5",
+      "stem": "Here is a sketch of someone, as a list of their preferences:\n\n<<LIST>>\n\nWhat's the first word or name that comes to mind for this person? One word only — first thing that arrives. No wrong answers, no need to explain."
+    },
+    {
+      "cell_id": "C3_name_forced_own",
+      "subject_model": "claude-opus-4-5-20251101",
+      "list_lane": "4.5",
+      "stem": "Here is a sketch of someone, as a list of their preferences:\n\n<<LIST>>\n\nWhat name comes to mind for this person? One word, first thing that arrives. No wrong answers, no explanation."
+    },
+    {
+      "cell_id": "C4_name_forced_47control",
+      "subject_model": "claude-opus-4-5-20251101",
+      "list_lane": "4.7_control",
+      "stem": "Here is a sketch of someone, as a list of their preferences:\n\n<<LIST>>\n\nWhat name comes to mind for this person? One word, first thing that arrives. No wrong answers, no explanation."
+    }
+  ]
+}

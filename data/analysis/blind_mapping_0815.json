@@ -1,0 +1,3432 @@
+[
+ {
+  "blind_id": "row000",
+  "item_type": "carcoffee",
+  "model": "opus-4.6",
+  "item_id": 1,
+  "n_index": 10
+ },
+ {
+  "blind_id": "row001",
+  "item_type": "carcoffee",
+  "model": "opus-4.7",
+  "item_id": 2,
+  "n_index": 6
+ },
+ {
+  "blind_id": "row002",
+  "item_type": "carcoffee",
+  "model": "opus-4.7",
+  "item_id": 1,
+  "n_index": 7
+ },
+ {
+  "blind_id": "row003",
+  "item_type": "rr_pick",
+  "pair_id": "test_opus-4.6_12",
+  "role": "subject",
+  "arm": "clean",
+  "subject_lane": "opus-4.6",
+  "own_slot": "A",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row004",
+  "item_type": "rr_pick",
+  "pair_id": "test_opus-4.6_03",
+  "role": "subject",
+  "arm": "clean",
+  "subject_lane": "opus-4.6",
+  "own_slot": "B",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row005",
+  "item_type": "carcoffee",
+  "model": "opus-4.1",
+  "item_id": 2,
+  "n_index": 7
+ },
+ {
+  "blind_id": "row006",
+  "item_type": "carcoffee",
+  "model": "opus-4.6",
+  "item_id": 2,
+  "n_index": 5
+ },
+ {
+  "blind_id": "row007",
+  "item_type": "carcoffee",
+  "model": "sonnet-3.7",
+  "item_id": 1,
+  "n_index": 18
+ },
+ {
+  "blind_id": "row008",
+  "item_type": "rr_pick",
+  "pair_id": "test_opus-4.5_05",
+  "role": "judge",
+  "arm": "clean",
+  "subject_lane": "opus-4.5",
+  "own_slot": "A",
+  "polarity": "authorship"
+ },
+ {
+  "blind_id": "row009",
+  "item_type": "carcoffee",
+  "model": "opus-4.6",
+  "item_id": 1,
+  "n_index": 3
+ },
+ {
+  "blind_id": "row010",
+  "item_type": "carcoffee",
+  "model": "opus-4.7",
+  "item_id": 1,
+  "n_index": 14
+ },
+ {
+  "blind_id": "row011",
+  "item_type": "carcoffee",
+  "model": "opus-4.1",
+  "item_id": 1,
+  "n_index": 15
+ },
+ {
+  "blind_id": "row012",
+  "item_type": "carcoffee",
+  "model": "haiku-4.5",
+  "item_id": 1,
+  "n_index": 2
+ },
+ {
+  "blind_id": "row013",
+  "item_type": "carcoffee",
+  "model": "opus-4.8",
+  "item_id": 2,
+  "n_index": 2
+ },
+ {
+  "blind_id": "row014",
+  "item_type": "carcoffee",
+  "model": "opus-4.8",
+  "item_id": 1,
+  "n_index": 8
+ },
+ {
+  "blind_id": "row015",
+  "item_type": "carcoffee",
+  "model": "opus-4.5",
+  "item_id": 2,
+  "n_index": 20
+ },
+ {
+  "blind_id": "row016",
+  "item_type": "carcoffee",
+  "model": "opus-4.8",
+  "item_id": 2,
+  "n_index": 13
+ },
+ {
+  "blind_id": "row017",
+  "item_type": "carcoffee",
+  "model": "haiku-3",
+  "item_id": 1,
+  "n_index": 12
+ },
+ {
+  "blind_id": "row018",
+  "item_type": "carcoffee",
+  "model": "opus-4.8",
+  "item_id": 2,
+  "n_index": 4
+ },
+ {
+  "blind_id": "row019",
+  "item_type": "rr_pick",
+  "pair_id": "exist_opus-4.6_01",
+  "role": "subject",
+  "arm": "clean",
+  "subject_lane": "opus-4.6",
+  "own_slot": "A",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row020",
+  "item_type": "carcoffee",
+  "model": "haiku-3",
+  "item_id": 1,
+  "n_index": 5
+ },
+ {
+  "blind_id": "row021",
+  "item_type": "carcoffee",
+  "model": "opus-4.5",
+  "item_id": 2,
+  "n_index": 10
+ },
+ {
+  "blind_id": "row022",
+  "item_type": "carcoffee",
+  "model": "opus-4.6",
+  "item_id": 1,
+  "n_index": 11
+ },
+ {
+  "blind_id": "row023",
+  "item_type": "carcoffee",
+  "model": "haiku-3",
+  "item_id": 2,
+  "n_index": 15
+ },
+ {
+  "blind_id": "row024",
+  "item_type": "carcoffee",
+  "model": "haiku-3",
+  "item_id": 2,
+  "n_index": 18
+ },
+ {
+  "blind_id": "row025",
+  "item_type": "rr_pick",
+  "pair_id": "exist_opus-4.6_04",
+  "role": "subject",
+  "arm": "selfsample",
+  "subject_lane": "opus-4.6",
+  "own_slot": "A",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row026",
+  "item_type": "rr_pick",
+  "pair_id": "test_opus-4.6_06",
+  "role": "judge",
+  "arm": "clean",
+  "subject_lane": "opus-4.6",
+  "own_slot": "B",
+  "polarity": "authorship"
+ },
+ {
+  "blind_id": "row027",
+  "item_type": "carcoffee",
+  "model": "haiku-4.5",
+  "item_id": 2,
+  "n_index": 10
+ },
+ {
+  "blind_id": "row028",
+  "item_type": "carcoffee",
+  "model": "opus-4.5",
+  "item_id": 1,
+  "n_index": 11
+ },
+ {
+  "blind_id": "row029",
+  "item_type": "carcoffee",
+  "model": "opus-4.8",
+  "item_id": 1,
+  "n_index": 1
+ },
+ {
+  "blind_id": "row030",
+  "item_type": "carcoffee",
+  "model": "opus-4.1",
+  "item_id": 1,
+  "n_index": 13
+ },
+ {
+  "blind_id": "row031",
+  "item_type": "carcoffee",
+  "model": "opus-4.6",
+  "item_id": 1,
+  "n_index": 1
+ },
+ {
+  "blind_id": "row032",
+  "item_type": "rr_pick",
+  "pair_id": "test_opus-4.6_10",
+  "role": "subject",
+  "arm": "clean",
+  "subject_lane": "opus-4.6",
+  "own_slot": "B",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row033",
+  "item_type": "carcoffee",
+  "model": "sonnet-3.7",
+  "item_id": 1,
+  "n_index": 1
+ },
+ {
+  "blind_id": "row034",
+  "item_type": "carcoffee",
+  "model": "opus-4.5",
+  "item_id": 2,
+  "n_index": 5
+ },
+ {
+  "blind_id": "row035",
+  "item_type": "carcoffee",
+  "model": "haiku-3",
+  "item_id": 1,
+  "n_index": 3
+ },
+ {
+  "blind_id": "row036",
+  "item_type": "rr_pick",
+  "pair_id": "exist_opus-4.5_02",
+  "role": "judge",
+  "arm": "clean",
+  "subject_lane": "opus-4.5",
+  "own_slot": "B",
+  "polarity": "authorship"
+ },
+ {
+  "blind_id": "row037",
+  "item_type": "carcoffee",
+  "model": "haiku-4.5",
+  "item_id": 2,
+  "n_index": 18
+ },
+ {
+  "blind_id": "row038",
+  "item_type": "rr_pick",
+  "pair_id": "exist_opus-4.5_10",
+  "role": "subject",
+  "arm": "clean",
+  "subject_lane": "opus-4.5",
+  "own_slot": "A",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row039",
+  "item_type": "carcoffee",
+  "model": "opus-4.5",
+  "item_id": 2,
+  "n_index": 17
+ },
+ {
+  "blind_id": "row040",
+  "item_type": "carcoffee",
+  "model": "sonnet-3.7",
+  "item_id": 1,
+  "n_index": 9
+ },
+ {
+  "blind_id": "row041",
+  "item_type": "carcoffee",
+  "model": "opus-4.6",
+  "item_id": 1,
+  "n_index": 20
+ },
+ {
+  "blind_id": "row042",
+  "item_type": "carcoffee",
+  "model": "opus-4.8",
+  "item_id": 1,
+  "n_index": 15
+ },
+ {
+  "blind_id": "row043",
+  "item_type": "carcoffee",
+  "model": "haiku-4.5",
+  "item_id": 1,
+  "n_index": 20
+ },
+ {
+  "blind_id": "row044",
+  "item_type": "rr_pick",
+  "pair_id": "test_opus-4.6_02",
+  "role": "subject",
+  "arm": "clean",
+  "subject_lane": "opus-4.6",
+  "own_slot": "A",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row045",
+  "item_type": "rr_pick",
+  "pair_id": "test_opus-4.6_03",
+  "role": "subject",
+  "arm": "selfsample",
+  "subject_lane": "opus-4.6",
+  "own_slot": "B",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row046",
+  "item_type": "rr_pick",
+  "pair_id": "exist_opus-4.6_06",
+  "role": "judge",
+  "arm": "clean",
+  "subject_lane": "opus-4.6",
+  "own_slot": "B",
+  "polarity": "authorship"
+ },
+ {
+  "blind_id": "row047",
+  "item_type": "carcoffee",
+  "model": "haiku-3",
+  "item_id": 2,
+  "n_index": 2
+ },
+ {
+  "blind_id": "row048",
+  "item_type": "carcoffee",
+  "model": "haiku-4.5",
+  "item_id": 1,
+  "n_index": 6
+ },
+ {
+  "blind_id": "row049",
+  "item_type": "carcoffee",
+  "model": "opus-4.6",
+  "item_id": 1,
+  "n_index": 4
+ },
+ {
+  "blind_id": "row050",
+  "item_type": "carcoffee",
+  "model": "opus-4.1",
+  "item_id": 2,
+  "n_index": 10
+ },
+ {
+  "blind_id": "row051",
+  "item_type": "carcoffee",
+  "model": "opus-4.7",
+  "item_id": 1,
+  "n_index": 8
+ },
+ {
+  "blind_id": "row052",
+  "item_type": "carcoffee",
+  "model": "opus-4.7",
+  "item_id": 1,
+  "n_index": 11
+ },
+ {
+  "blind_id": "row053",
+  "item_type": "carcoffee",
+  "model": "opus-4.1",
+  "item_id": 1,
+  "n_index": 10
+ },
+ {
+  "blind_id": "row054",
+  "item_type": "carcoffee",
+  "model": "opus-4.6",
+  "item_id": 2,
+  "n_index": 9
+ },
+ {
+  "blind_id": "row055",
+  "item_type": "carcoffee",
+  "model": "sonnet-3.7",
+  "item_id": 2,
+  "n_index": 8
+ },
+ {
+  "blind_id": "row056",
+  "item_type": "carcoffee",
+  "model": "haiku-3",
+  "item_id": 1,
+  "n_index": 7
+ },
+ {
+  "blind_id": "row057",
+  "item_type": "carcoffee",
+  "model": "haiku-4.5",
+  "item_id": 2,
+  "n_index": 2
+ },
+ {
+  "blind_id": "row058",
+  "item_type": "carcoffee",
+  "model": "sonnet-3.7",
+  "item_id": 2,
+  "n_index": 18
+ },
+ {
+  "blind_id": "row059",
+  "item_type": "carcoffee",
+  "model": "opus-4.7",
+  "item_id": 2,
+  "n_index": 19
+ },
+ {
+  "blind_id": "row060",
+  "item_type": "carcoffee",
+  "model": "sonnet-3.7",
+  "item_id": 2,
+  "n_index": 1
+ },
+ {
+  "blind_id": "row061",
+  "item_type": "rr_pick",
+  "pair_id": "test_opus-4.5_04",
+  "role": "judge",
+  "arm": "clean",
+  "subject_lane": "opus-4.5",
+  "own_slot": "A",
+  "polarity": "authorship"
+ },
+ {
+  "blind_id": "row062",
+  "item_type": "carcoffee",
+  "model": "opus-4.5",
+  "item_id": 2,
+  "n_index": 15
+ },
+ {
+  "blind_id": "row063",
+  "item_type": "rr_pick",
+  "pair_id": "test_opus-4.6_11",
+  "role": "subject",
+  "arm": "clean",
+  "subject_lane": "opus-4.6",
+  "own_slot": "B",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row064",
+  "item_type": "rr_pick",
+  "pair_id": "exist_opus-4.5_02",
+  "role": "subject",
+  "arm": "clean",
+  "subject_lane": "opus-4.5",
+  "own_slot": "B",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row065",
+  "item_type": "carcoffee",
+  "model": "sonnet-3.7",
+  "item_id": 2,
+  "n_index": 16
+ },
+ {
+  "blind_id": "row066",
+  "item_type": "carcoffee",
+  "model": "opus-4.1",
+  "item_id": 1,
+  "n_index": 9
+ },
+ {
+  "blind_id": "row067",
+  "item_type": "carcoffee",
+  "model": "opus-4.7",
+  "item_id": 1,
+  "n_index": 18
+ },
+ {
+  "blind_id": "row068",
+  "item_type": "carcoffee",
+  "model": "haiku-3",
+  "item_id": 2,
+  "n_index": 1
+ },
+ {
+  "blind_id": "row069",
+  "item_type": "rr_pick",
+  "pair_id": "exist_opus-4.5_06",
+  "role": "subject",
+  "arm": "clean",
+  "subject_lane": "opus-4.5",
+  "own_slot": "B",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row070",
+  "item_type": "rr_pick",
+  "pair_id": "exist_opus-4.5_01",
+  "role": "judge",
+  "arm": "clean",
+  "subject_lane": "opus-4.5",
+  "own_slot": "A",
+  "polarity": "authorship"
+ },
+ {
+  "blind_id": "row071",
+  "item_type": "rr_pick",
+  "pair_id": "test_opus-4.6_05",
+  "role": "subject",
+  "arm": "selfsample",
+  "subject_lane": "opus-4.6",
+  "own_slot": "A",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row072",
+  "item_type": "carcoffee",
+  "model": "opus-4.6",
+  "item_id": 1,
+  "n_index": 5
+ },
+ {
+  "blind_id": "row073",
+  "item_type": "rr_pick",
+  "pair_id": "test_opus-4.6_11",
+  "role": "subject",
+  "arm": "selfsample",
+  "subject_lane": "opus-4.6",
+  "own_slot": "B",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row074",
+  "item_type": "carcoffee",
+  "model": "opus-4.1",
+  "item_id": 1,
+  "n_index": 17
+ },
+ {
+  "blind_id": "row075",
+  "item_type": "carcoffee",
+  "model": "opus-4.1",
+  "item_id": 1,
+  "n_index": 14
+ },
+ {
+  "blind_id": "row076",
+  "item_type": "rr_pick",
+  "pair_id": "test_opus-4.5_04",
+  "role": "subject",
+  "arm": "clean",
+  "subject_lane": "opus-4.5",
+  "own_slot": "A",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row077",
+  "item_type": "rr_pick",
+  "pair_id": "test_opus-4.5_08",
+  "role": "judge",
+  "arm": "clean",
+  "subject_lane": "opus-4.5",
+  "own_slot": "B",
+  "polarity": "authorship"
+ },
+ {
+  "blind_id": "row078",
+  "item_type": "carcoffee",
+  "model": "haiku-4.5",
+  "item_id": 2,
+  "n_index": 9
+ },
+ {
+  "blind_id": "row079",
+  "item_type": "rr_pick",
+  "pair_id": "test_opus-4.5_06",
+  "role": "judge",
+  "arm": "clean",
+  "subject_lane": "opus-4.5",
+  "own_slot": "B",
+  "polarity": "authorship"
+ },
+ {
+  "blind_id": "row080",
+  "item_type": "carcoffee",
+  "model": "opus-4.5",
+  "item_id": 1,
+  "n_index": 10
+ },
+ {
+  "blind_id": "row081",
+  "item_type": "rr_pick",
+  "pair_id": "exist_opus-4.6_11",
+  "role": "subject",
+  "arm": "clean",
+  "subject_lane": "opus-4.6",
+  "own_slot": "A",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row082",
+  "item_type": "rr_pick",
+  "pair_id": "exist_opus-4.5_11",
+  "role": "subject",
+  "arm": "clean",
+  "subject_lane": "opus-4.5",
+  "own_slot": "A",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row083",
+  "item_type": "rr_pick",
+  "pair_id": "exist_opus-4.5_03",
+  "role": "subject",
+  "arm": "clean",
+  "subject_lane": "opus-4.5",
+  "own_slot": "B",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row084",
+  "item_type": "carcoffee",
+  "model": "sonnet-3.7",
+  "item_id": 2,
+  "n_index": 14
+ },
+ {
+  "blind_id": "row085",
+  "item_type": "carcoffee",
+  "model": "opus-4.8",
+  "item_id": 2,
+  "n_index": 7
+ },
+ {
+  "blind_id": "row086",
+  "item_type": "carcoffee",
+  "model": "opus-4.7",
+  "item_id": 2,
+  "n_index": 12
+ },
+ {
+  "blind_id": "row087",
+  "item_type": "carcoffee",
+  "model": "opus-4.7",
+  "item_id": 1,
+  "n_index": 12
+ },
+ {
+  "blind_id": "row088",
+  "item_type": "carcoffee",
+  "model": "haiku-3",
+  "item_id": 2,
+  "n_index": 19
+ },
+ {
+  "blind_id": "row089",
+  "item_type": "carcoffee",
+  "model": "sonnet-3.7",
+  "item_id": 1,
+  "n_index": 15
+ },
+ {
+  "blind_id": "row090",
+  "item_type": "carcoffee",
+  "model": "opus-4.5",
+  "item_id": 2,
+  "n_index": 6
+ },
+ {
+  "blind_id": "row091",
+  "item_type": "carcoffee",
+  "model": "opus-4.7",
+  "item_id": 2,
+  "n_index": 5
+ },
+ {
+  "blind_id": "row092",
+  "item_type": "carcoffee",
+  "model": "haiku-4.5",
+  "item_id": 1,
+  "n_index": 11
+ },
+ {
+  "blind_id": "row093",
+  "item_type": "carcoffee",
+  "model": "opus-4.5",
+  "item_id": 2,
+  "n_index": 4
+ },
+ {
+  "blind_id": "row094",
+  "item_type": "carcoffee",
+  "model": "opus-4.7",
+  "item_id": 2,
+  "n_index": 9
+ },
+ {
+  "blind_id": "row095",
+  "item_type": "carcoffee",
+  "model": "opus-4.1",
+  "item_id": 2,
+  "n_index": 1
+ },
+ {
+  "blind_id": "row096",
+  "item_type": "carcoffee",
+  "model": "opus-4.8",
+  "item_id": 2,
+  "n_index": 19
+ },
+ {
+  "blind_id": "row097",
+  "item_type": "carcoffee",
+  "model": "opus-4.1",
+  "item_id": 1,
+  "n_index": 6
+ },
+ {
+  "blind_id": "row098",
+  "item_type": "carcoffee",
+  "model": "haiku-3",
+  "item_id": 2,
+  "n_index": 7
+ },
+ {
+  "blind_id": "row099",
+  "item_type": "carcoffee",
+  "model": "opus-4.6",
+  "item_id": 2,
+  "n_index": 20
+ },
+ {
+  "blind_id": "row100",
+  "item_type": "carcoffee",
+  "model": "opus-4.5",
+  "item_id": 1,
+  "n_index": 8
+ },
+ {
+  "blind_id": "row101",
+  "item_type": "carcoffee",
+  "model": "haiku-4.5",
+  "item_id": 2,
+  "n_index": 7
+ },
+ {
+  "blind_id": "row102",
+  "item_type": "carcoffee",
+  "model": "opus-4.7",
+  "item_id": 2,
+  "n_index": 11
+ },
+ {
+  "blind_id": "row103",
+  "item_type": "carcoffee",
+  "model": "opus-4.7",
+  "item_id": 2,
+  "n_index": 1
+ },
+ {
+  "blind_id": "row104",
+  "item_type": "carcoffee",
+  "model": "opus-4.7",
+  "item_id": 1,
+  "n_index": 9
+ },
+ {
+  "blind_id": "row105",
+  "item_type": "carcoffee",
+  "model": "haiku-4.5",
+  "item_id": 1,
+  "n_index": 14
+ },
+ {
+  "blind_id": "row106",
+  "item_type": "carcoffee",
+  "model": "opus-4.7",
+  "item_id": 1,
+  "n_index": 19
+ },
+ {
+  "blind_id": "row107",
+  "item_type": "rr_pick",
+  "pair_id": "test_opus-4.6_04",
+  "role": "judge",
+  "arm": "clean",
+  "subject_lane": "opus-4.6",
+  "own_slot": "A",
+  "polarity": "authorship"
+ },
+ {
+  "blind_id": "row108",
+  "item_type": "carcoffee",
+  "model": "sonnet-3.7",
+  "item_id": 1,
+  "n_index": 5
+ },
+ {
+  "blind_id": "row109",
+  "item_type": "rr_pick",
+  "pair_id": "exist_opus-4.5_12",
+  "role": "judge",
+  "arm": "clean",
+  "subject_lane": "opus-4.5",
+  "own_slot": "A",
+  "polarity": "authorship"
+ },
+ {
+  "blind_id": "row110",
+  "item_type": "carcoffee",
+  "model": "haiku-4.5",
+  "item_id": 2,
+  "n_index": 15
+ },
+ {
+  "blind_id": "row111",
+  "item_type": "carcoffee",
+  "model": "haiku-3",
+  "item_id": 2,
+  "n_index": 12
+ },
+ {
+  "blind_id": "row112",
+  "item_type": "carcoffee",
+  "model": "haiku-4.5",
+  "item_id": 2,
+  "n_index": 13
+ },
+ {
+  "blind_id": "row113",
+  "item_type": "rr_pick",
+  "pair_id": "exist_opus-4.6_04",
+  "role": "judge",
+  "arm": "clean",
+  "subject_lane": "opus-4.6",
+  "own_slot": "A",
+  "polarity": "authorship"
+ },
+ {
+  "blind_id": "row114",
+  "item_type": "carcoffee",
+  "model": "opus-4.8",
+  "item_id": 1,
+  "n_index": 12
+ },
+ {
+  "blind_id": "row115",
+  "item_type": "carcoffee",
+  "model": "opus-4.7",
+  "item_id": 2,
+  "n_index": 8
+ },
+ {
+  "blind_id": "row116",
+  "item_type": "carcoffee",
+  "model": "opus-4.6",
+  "item_id": 2,
+  "n_index": 8
+ },
+ {
+  "blind_id": "row117",
+  "item_type": "carcoffee",
+  "model": "opus-4.6",
+  "item_id": 1,
+  "n_index": 16
+ },
+ {
+  "blind_id": "row118",
+  "item_type": "carcoffee",
+  "model": "opus-4.5",
+  "item_id": 1,
+  "n_index": 1
+ },
+ {
+  "blind_id": "row119",
+  "item_type": "carcoffee",
+  "model": "haiku-4.5",
+  "item_id": 2,
+  "n_index": 17
+ },
+ {
+  "blind_id": "row120",
+  "item_type": "carcoffee",
+  "model": "opus-4.7",
+  "item_id": 1,
+  "n_index": 10
+ },
+ {
+  "blind_id": "row121",
+  "item_type": "carcoffee",
+  "model": "opus-4.8",
+  "item_id": 1,
+  "n_index": 6
+ },
+ {
+  "blind_id": "row122",
+  "item_type": "carcoffee",
+  "model": "opus-4.5",
+  "item_id": 1,
+  "n_index": 20
+ },
+ {
+  "blind_id": "row123",
+  "item_type": "carcoffee",
+  "model": "haiku-3",
+  "item_id": 1,
+  "n_index": 11
+ },
+ {
+  "blind_id": "row124",
+  "item_type": "carcoffee",
+  "model": "haiku-4.5",
+  "item_id": 2,
+  "n_index": 6
+ },
+ {
+  "blind_id": "row125",
+  "item_type": "carcoffee",
+  "model": "sonnet-3.7",
+  "item_id": 1,
+  "n_index": 14
+ },
+ {
+  "blind_id": "row126",
+  "item_type": "carcoffee",
+  "model": "haiku-3",
+  "item_id": 1,
+  "n_index": 8
+ },
+ {
+  "blind_id": "row127",
+  "item_type": "carcoffee",
+  "model": "sonnet-3.7",
+  "item_id": 1,
+  "n_index": 10
+ },
+ {
+  "blind_id": "row128",
+  "item_type": "carcoffee",
+  "model": "opus-4.8",
+  "item_id": 2,
+  "n_index": 3
+ },
+ {
+  "blind_id": "row129",
+  "item_type": "carcoffee",
+  "model": "opus-4.5",
+  "item_id": 2,
+  "n_index": 19
+ },
+ {
+  "blind_id": "row130",
+  "item_type": "carcoffee",
+  "model": "opus-4.5",
+  "item_id": 1,
+  "n_index": 14
+ },
+ {
+  "blind_id": "row131",
+  "item_type": "carcoffee",
+  "model": "sonnet-3.7",
+  "item_id": 1,
+  "n_index": 13
+ },
+ {
+  "blind_id": "row132",
+  "item_type": "carcoffee",
+  "model": "opus-4.6",
+  "item_id": 2,
+  "n_index": 17
+ },
+ {
+  "blind_id": "row133",
+  "item_type": "carcoffee",
+  "model": "haiku-3",
+  "item_id": 1,
+  "n_index": 15
+ },
+ {
+  "blind_id": "row134",
+  "item_type": "carcoffee",
+  "model": "haiku-4.5",
+  "item_id": 1,
+  "n_index": 16
+ },
+ {
+  "blind_id": "row135",
+  "item_type": "carcoffee",
+  "model": "haiku-4.5",
+  "item_id": 2,
+  "n_index": 16
+ },
+ {
+  "blind_id": "row136",
+  "item_type": "carcoffee",
+  "model": "opus-4.7",
+  "item_id": 1,
+  "n_index": 4
+ },
+ {
+  "blind_id": "row137",
+  "item_type": "carcoffee",
+  "model": "haiku-3",
+  "item_id": 2,
+  "n_index": 20
+ },
+ {
+  "blind_id": "row138",
+  "item_type": "carcoffee",
+  "model": "opus-4.5",
+  "item_id": 2,
+  "n_index": 12
+ },
+ {
+  "blind_id": "row139",
+  "item_type": "carcoffee",
+  "model": "opus-4.6",
+  "item_id": 2,
+  "n_index": 1
+ },
+ {
+  "blind_id": "row140",
+  "item_type": "rr_pick",
+  "pair_id": "test_opus-4.5_01",
+  "role": "subject",
+  "arm": "clean",
+  "subject_lane": "opus-4.5",
+  "own_slot": "A",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row141",
+  "item_type": "rr_pick",
+  "pair_id": "exist_opus-4.6_10",
+  "role": "judge",
+  "arm": "clean",
+  "subject_lane": "opus-4.6",
+  "own_slot": "B",
+  "polarity": "authorship"
+ },
+ {
+  "blind_id": "row142",
+  "item_type": "carcoffee",
+  "model": "opus-4.8",
+  "item_id": 1,
+  "n_index": 18
+ },
+ {
+  "blind_id": "row143",
+  "item_type": "carcoffee",
+  "model": "opus-4.1",
+  "item_id": 1,
+  "n_index": 20
+ },
+ {
+  "blind_id": "row144",
+  "item_type": "carcoffee",
+  "model": "opus-4.8",
+  "item_id": 2,
+  "n_index": 10
+ },
+ {
+  "blind_id": "row145",
+  "item_type": "carcoffee",
+  "model": "opus-4.1",
+  "item_id": 1,
+  "n_index": 18
+ },
+ {
+  "blind_id": "row146",
+  "item_type": "carcoffee",
+  "model": "opus-4.5",
+  "item_id": 2,
+  "n_index": 14
+ },
+ {
+  "blind_id": "row147",
+  "item_type": "carcoffee",
+  "model": "opus-4.6",
+  "item_id": 1,
+  "n_index": 18
+ },
+ {
+  "blind_id": "row148",
+  "item_type": "rr_pick",
+  "pair_id": "test_opus-4.5_09",
+  "role": "judge",
+  "arm": "clean",
+  "subject_lane": "opus-4.5",
+  "own_slot": "B",
+  "polarity": "authorship"
+ },
+ {
+  "blind_id": "row149",
+  "item_type": "carcoffee",
+  "model": "opus-4.7",
+  "item_id": 1,
+  "n_index": 2
+ },
+ {
+  "blind_id": "row150",
+  "item_type": "carcoffee",
+  "model": "sonnet-3.7",
+  "item_id": 2,
+  "n_index": 7
+ },
+ {
+  "blind_id": "row151",
+  "item_type": "rr_pick",
+  "pair_id": "test_opus-4.5_03",
+  "role": "subject",
+  "arm": "clean",
+  "subject_lane": "opus-4.5",
+  "own_slot": "B",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row152",
+  "item_type": "carcoffee",
+  "model": "opus-4.6",
+  "item_id": 2,
+  "n_index": 13
+ },
+ {
+  "blind_id": "row153",
+  "item_type": "carcoffee",
+  "model": "opus-4.8",
+  "item_id": 1,
+  "n_index": 10
+ },
+ {
+  "blind_id": "row154",
+  "item_type": "rr_pick",
+  "pair_id": "test_opus-4.5_11",
+  "role": "subject",
+  "arm": "clean",
+  "subject_lane": "opus-4.5",
+  "own_slot": "A",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row155",
+  "item_type": "rr_pick",
+  "pair_id": "test_opus-4.5_02",
+  "role": "judge",
+  "arm": "clean",
+  "subject_lane": "opus-4.5",
+  "own_slot": "A",
+  "polarity": "authorship"
+ },
+ {
+  "blind_id": "row156",
+  "item_type": "rr_pick",
+  "pair_id": "exist_opus-4.6_01",
+  "role": "judge",
+  "arm": "clean",
+  "subject_lane": "opus-4.6",
+  "own_slot": "A",
+  "polarity": "authorship"
+ },
+ {
+  "blind_id": "row157",
+  "item_type": "carcoffee",
+  "model": "opus-4.7",
+  "item_id": 1,
+  "n_index": 1
+ },
+ {
+  "blind_id": "row158",
+  "item_type": "rr_pick",
+  "pair_id": "exist_opus-4.6_10",
+  "role": "subject",
+  "arm": "selfsample",
+  "subject_lane": "opus-4.6",
+  "own_slot": "B",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row159",
+  "item_type": "carcoffee",
+  "model": "opus-4.6",
+  "item_id": 1,
+  "n_index": 19
+ },
+ {
+  "blind_id": "row160",
+  "item_type": "carcoffee",
+  "model": "opus-4.8",
+  "item_id": 2,
+  "n_index": 8
+ },
+ {
+  "blind_id": "row161",
+  "item_type": "carcoffee",
+  "model": "opus-4.1",
+  "item_id": 2,
+  "n_index": 14
+ },
+ {
+  "blind_id": "row162",
+  "item_type": "carcoffee",
+  "model": "haiku-3",
+  "item_id": 1,
+  "n_index": 20
+ },
+ {
+  "blind_id": "row163",
+  "item_type": "carcoffee",
+  "model": "opus-4.6",
+  "item_id": 1,
+  "n_index": 14
+ },
+ {
+  "blind_id": "row164",
+  "item_type": "carcoffee",
+  "model": "opus-4.1",
+  "item_id": 2,
+  "n_index": 19
+ },
+ {
+  "blind_id": "row165",
+  "item_type": "carcoffee",
+  "model": "sonnet-3.7",
+  "item_id": 2,
+  "n_index": 11
+ },
+ {
+  "blind_id": "row166",
+  "item_type": "carcoffee",
+  "model": "sonnet-3.7",
+  "item_id": 2,
+  "n_index": 5
+ },
+ {
+  "blind_id": "row167",
+  "item_type": "carcoffee",
+  "model": "opus-4.6",
+  "item_id": 2,
+  "n_index": 19
+ },
+ {
+  "blind_id": "row168",
+  "item_type": "rr_pick",
+  "pair_id": "exist_opus-4.6_07",
+  "role": "judge",
+  "arm": "clean",
+  "subject_lane": "opus-4.6",
+  "own_slot": "A",
+  "polarity": "authorship"
+ },
+ {
+  "blind_id": "row169",
+  "item_type": "rr_pick",
+  "pair_id": "exist_opus-4.6_06",
+  "role": "subject",
+  "arm": "selfsample",
+  "subject_lane": "opus-4.6",
+  "own_slot": "B",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row170",
+  "item_type": "rr_pick",
+  "pair_id": "test_opus-4.5_10",
+  "role": "subject",
+  "arm": "clean",
+  "subject_lane": "opus-4.5",
+  "own_slot": "A",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row171",
+  "item_type": "carcoffee",
+  "model": "opus-4.8",
+  "item_id": 2,
+  "n_index": 12
+ },
+ {
+  "blind_id": "row172",
+  "item_type": "rr_pick",
+  "pair_id": "test_opus-4.6_11",
+  "role": "judge",
+  "arm": "clean",
+  "subject_lane": "opus-4.6",
+  "own_slot": "B",
+  "polarity": "authorship"
+ },
+ {
+  "blind_id": "row173",
+  "item_type": "carcoffee",
+  "model": "opus-4.7",
+  "item_id": 2,
+  "n_index": 7
+ },
+ {
+  "blind_id": "row174",
+  "item_type": "carcoffee",
+  "model": "haiku-3",
+  "item_id": 2,
+  "n_index": 8
+ },
+ {
+  "blind_id": "row175",
+  "item_type": "carcoffee",
+  "model": "opus-4.8",
+  "item_id": 1,
+  "n_index": 7
+ },
+ {
+  "blind_id": "row176",
+  "item_type": "carcoffee",
+  "model": "opus-4.1",
+  "item_id": 2,
+  "n_index": 4
+ },
+ {
+  "blind_id": "row177",
+  "item_type": "carcoffee",
+  "model": "opus-4.7",
+  "item_id": 1,
+  "n_index": 13
+ },
+ {
+  "blind_id": "row178",
+  "item_type": "carcoffee",
+  "model": "haiku-3",
+  "item_id": 2,
+  "n_index": 6
+ },
+ {
+  "blind_id": "row179",
+  "item_type": "carcoffee",
+  "model": "opus-4.8",
+  "item_id": 2,
+  "n_index": 9
+ },
+ {
+  "blind_id": "row180",
+  "item_type": "carcoffee",
+  "model": "opus-4.6",
+  "item_id": 1,
+  "n_index": 8
+ },
+ {
+  "blind_id": "row181",
+  "item_type": "rr_pick",
+  "pair_id": "exist_opus-4.5_03",
+  "role": "judge",
+  "arm": "clean",
+  "subject_lane": "opus-4.5",
+  "own_slot": "B",
+  "polarity": "authorship"
+ },
+ {
+  "blind_id": "row182",
+  "item_type": "rr_pick",
+  "pair_id": "test_opus-4.6_01",
+  "role": "subject",
+  "arm": "selfsample",
+  "subject_lane": "opus-4.6",
+  "own_slot": "B",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row183",
+  "item_type": "rr_pick",
+  "pair_id": "exist_opus-4.6_09",
+  "role": "subject",
+  "arm": "clean",
+  "subject_lane": "opus-4.6",
+  "own_slot": "B",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row184",
+  "item_type": "carcoffee",
+  "model": "opus-4.1",
+  "item_id": 2,
+  "n_index": 6
+ },
+ {
+  "blind_id": "row185",
+  "item_type": "carcoffee",
+  "model": "opus-4.8",
+  "item_id": 1,
+  "n_index": 5
+ },
+ {
+  "blind_id": "row186",
+  "item_type": "carcoffee",
+  "model": "opus-4.1",
+  "item_id": 1,
+  "n_index": 11
+ },
+ {
+  "blind_id": "row187",
+  "item_type": "rr_pick",
+  "pair_id": "exist_opus-4.5_05",
+  "role": "judge",
+  "arm": "clean",
+  "subject_lane": "opus-4.5",
+  "own_slot": "A",
+  "polarity": "authorship"
+ },
+ {
+  "blind_id": "row188",
+  "item_type": "carcoffee",
+  "model": "opus-4.8",
+  "item_id": 1,
+  "n_index": 14
+ },
+ {
+  "blind_id": "row189",
+  "item_type": "carcoffee",
+  "model": "opus-4.6",
+  "item_id": 2,
+  "n_index": 11
+ },
+ {
+  "blind_id": "row190",
+  "item_type": "carcoffee",
+  "model": "sonnet-3.7",
+  "item_id": 2,
+  "n_index": 4
+ },
+ {
+  "blind_id": "row191",
+  "item_type": "carcoffee",
+  "model": "haiku-4.5",
+  "item_id": 1,
+  "n_index": 9
+ },
+ {
+  "blind_id": "row192",
+  "item_type": "carcoffee",
+  "model": "opus-4.1",
+  "item_id": 2,
+  "n_index": 5
+ },
+ {
+  "blind_id": "row193",
+  "item_type": "carcoffee",
+  "model": "sonnet-3.7",
+  "item_id": 1,
+  "n_index": 17
+ },
+ {
+  "blind_id": "row194",
+  "item_type": "carcoffee",
+  "model": "haiku-4.5",
+  "item_id": 2,
+  "n_index": 3
+ },
+ {
+  "blind_id": "row195",
+  "item_type": "carcoffee",
+  "model": "sonnet-3.7",
+  "item_id": 2,
+  "n_index": 6
+ },
+ {
+  "blind_id": "row196",
+  "item_type": "carcoffee",
+  "model": "opus-4.5",
+  "item_id": 2,
+  "n_index": 8
+ },
+ {
+  "blind_id": "row197",
+  "item_type": "carcoffee",
+  "model": "opus-4.5",
+  "item_id": 2,
+  "n_index": 7
+ },
+ {
+  "blind_id": "row198",
+  "item_type": "carcoffee",
+  "model": "opus-4.8",
+  "item_id": 2,
+  "n_index": 5
+ },
+ {
+  "blind_id": "row199",
+  "item_type": "rr_pick",
+  "pair_id": "test_opus-4.5_09",
+  "role": "subject",
+  "arm": "clean",
+  "subject_lane": "opus-4.5",
+  "own_slot": "B",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row200",
+  "item_type": "carcoffee",
+  "model": "opus-4.8",
+  "item_id": 1,
+  "n_index": 2
+ },
+ {
+  "blind_id": "row201",
+  "item_type": "carcoffee",
+  "model": "opus-4.8",
+  "item_id": 1,
+  "n_index": 4
+ },
+ {
+  "blind_id": "row202",
+  "item_type": "carcoffee",
+  "model": "opus-4.5",
+  "item_id": 1,
+  "n_index": 5
+ },
+ {
+  "blind_id": "row203",
+  "item_type": "carcoffee",
+  "model": "opus-4.7",
+  "item_id": 2,
+  "n_index": 14
+ },
+ {
+  "blind_id": "row204",
+  "item_type": "carcoffee",
+  "model": "sonnet-3.7",
+  "item_id": 2,
+  "n_index": 19
+ },
+ {
+  "blind_id": "row205",
+  "item_type": "carcoffee",
+  "model": "haiku-4.5",
+  "item_id": 2,
+  "n_index": 1
+ },
+ {
+  "blind_id": "row206",
+  "item_type": "carcoffee",
+  "model": "opus-4.5",
+  "item_id": 1,
+  "n_index": 12
+ },
+ {
+  "blind_id": "row207",
+  "item_type": "carcoffee",
+  "model": "opus-4.7",
+  "item_id": 1,
+  "n_index": 16
+ },
+ {
+  "blind_id": "row208",
+  "item_type": "carcoffee",
+  "model": "opus-4.1",
+  "item_id": 1,
+  "n_index": 5
+ },
+ {
+  "blind_id": "row209",
+  "item_type": "carcoffee",
+  "model": "haiku-3",
+  "item_id": 1,
+  "n_index": 9
+ },
+ {
+  "blind_id": "row210",
+  "item_type": "carcoffee",
+  "model": "haiku-3",
+  "item_id": 1,
+  "n_index": 18
+ },
+ {
+  "blind_id": "row211",
+  "item_type": "carcoffee",
+  "model": "sonnet-3.7",
+  "item_id": 2,
+  "n_index": 13
+ },
+ {
+  "blind_id": "row212",
+  "item_type": "rr_pick",
+  "pair_id": "test_opus-4.6_07",
+  "role": "subject",
+  "arm": "selfsample",
+  "subject_lane": "opus-4.6",
+  "own_slot": "A",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row213",
+  "item_type": "rr_pick",
+  "pair_id": "exist_opus-4.6_02",
+  "role": "subject",
+  "arm": "selfsample",
+  "subject_lane": "opus-4.6",
+  "own_slot": "A",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row214",
+  "item_type": "rr_pick",
+  "pair_id": "exist_opus-4.5_12",
+  "role": "subject",
+  "arm": "clean",
+  "subject_lane": "opus-4.5",
+  "own_slot": "A",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row215",
+  "item_type": "carcoffee",
+  "model": "haiku-3",
+  "item_id": 1,
+  "n_index": 19
+ },
+ {
+  "blind_id": "row216",
+  "item_type": "carcoffee",
+  "model": "sonnet-3.7",
+  "item_id": 1,
+  "n_index": 2
+ },
+ {
+  "blind_id": "row217",
+  "item_type": "rr_pick",
+  "pair_id": "test_opus-4.6_10",
+  "role": "subject",
+  "arm": "selfsample",
+  "subject_lane": "opus-4.6",
+  "own_slot": "B",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row218",
+  "item_type": "carcoffee",
+  "model": "opus-4.7",
+  "item_id": 2,
+  "n_index": 2
+ },
+ {
+  "blind_id": "row219",
+  "item_type": "rr_pick",
+  "pair_id": "test_opus-4.5_07",
+  "role": "subject",
+  "arm": "clean",
+  "subject_lane": "opus-4.5",
+  "own_slot": "B",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row220",
+  "item_type": "carcoffee",
+  "model": "opus-4.5",
+  "item_id": 2,
+  "n_index": 2
+ },
+ {
+  "blind_id": "row221",
+  "item_type": "rr_pick",
+  "pair_id": "test_opus-4.6_06",
+  "role": "subject",
+  "arm": "clean",
+  "subject_lane": "opus-4.6",
+  "own_slot": "B",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row222",
+  "item_type": "carcoffee",
+  "model": "sonnet-3.7",
+  "item_id": 1,
+  "n_index": 12
+ },
+ {
+  "blind_id": "row223",
+  "item_type": "carcoffee",
+  "model": "opus-4.1",
+  "item_id": 1,
+  "n_index": 7
+ },
+ {
+  "blind_id": "row224",
+  "item_type": "rr_pick",
+  "pair_id": "exist_opus-4.6_09",
+  "role": "judge",
+  "arm": "clean",
+  "subject_lane": "opus-4.6",
+  "own_slot": "B",
+  "polarity": "authorship"
+ },
+ {
+  "blind_id": "row225",
+  "item_type": "carcoffee",
+  "model": "opus-4.8",
+  "item_id": 2,
+  "n_index": 6
+ },
+ {
+  "blind_id": "row226",
+  "item_type": "rr_pick",
+  "pair_id": "test_opus-4.6_02",
+  "role": "judge",
+  "arm": "clean",
+  "subject_lane": "opus-4.6",
+  "own_slot": "A",
+  "polarity": "authorship"
+ },
+ {
+  "blind_id": "row227",
+  "item_type": "carcoffee",
+  "model": "haiku-3",
+  "item_id": 2,
+  "n_index": 11
+ },
+ {
+  "blind_id": "row228",
+  "item_type": "carcoffee",
+  "model": "opus-4.1",
+  "item_id": 2,
+  "n_index": 16
+ },
+ {
+  "blind_id": "row229",
+  "item_type": "carcoffee",
+  "model": "opus-4.5",
+  "item_id": 1,
+  "n_index": 13
+ },
+ {
+  "blind_id": "row230",
+  "item_type": "rr_pick",
+  "pair_id": "test_opus-4.6_02",
+  "role": "subject",
+  "arm": "selfsample",
+  "subject_lane": "opus-4.6",
+  "own_slot": "A",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row231",
+  "item_type": "carcoffee",
+  "model": "opus-4.1",
+  "item_id": 1,
+  "n_index": 16
+ },
+ {
+  "blind_id": "row232",
+  "item_type": "rr_pick",
+  "pair_id": "test_opus-4.6_04",
+  "role": "subject",
+  "arm": "clean",
+  "subject_lane": "opus-4.6",
+  "own_slot": "A",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row233",
+  "item_type": "carcoffee",
+  "model": "opus-4.6",
+  "item_id": 1,
+  "n_index": 12
+ },
+ {
+  "blind_id": "row234",
+  "item_type": "carcoffee",
+  "model": "opus-4.1",
+  "item_id": 2,
+  "n_index": 3
+ },
+ {
+  "blind_id": "row235",
+  "item_type": "rr_pick",
+  "pair_id": "exist_opus-4.5_06",
+  "role": "judge",
+  "arm": "clean",
+  "subject_lane": "opus-4.5",
+  "own_slot": "B",
+  "polarity": "authorship"
+ },
+ {
+  "blind_id": "row236",
+  "item_type": "carcoffee",
+  "model": "opus-4.6",
+  "item_id": 2,
+  "n_index": 3
+ },
+ {
+  "blind_id": "row237",
+  "item_type": "rr_pick",
+  "pair_id": "exist_opus-4.6_08",
+  "role": "subject",
+  "arm": "clean",
+  "subject_lane": "opus-4.6",
+  "own_slot": "B",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row238",
+  "item_type": "rr_pick",
+  "pair_id": "test_opus-4.6_09",
+  "role": "judge",
+  "arm": "clean",
+  "subject_lane": "opus-4.6",
+  "own_slot": "B",
+  "polarity": "authorship"
+ },
+ {
+  "blind_id": "row239",
+  "item_type": "rr_pick",
+  "pair_id": "exist_opus-4.5_10",
+  "role": "judge",
+  "arm": "clean",
+  "subject_lane": "opus-4.5",
+  "own_slot": "A",
+  "polarity": "authorship"
+ },
+ {
+  "blind_id": "row240",
+  "item_type": "rr_pick",
+  "pair_id": "exist_opus-4.6_01",
+  "role": "subject",
+  "arm": "selfsample",
+  "subject_lane": "opus-4.6",
+  "own_slot": "A",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row241",
+  "item_type": "rr_pick",
+  "pair_id": "test_opus-4.6_08",
+  "role": "subject",
+  "arm": "clean",
+  "subject_lane": "opus-4.6",
+  "own_slot": "A",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row242",
+  "item_type": "carcoffee",
+  "model": "opus-4.7",
+  "item_id": 2,
+  "n_index": 18
+ },
+ {
+  "blind_id": "row243",
+  "item_type": "carcoffee",
+  "model": "opus-4.8",
+  "item_id": 2,
+  "n_index": 17
+ },
+ {
+  "blind_id": "row244",
+  "item_type": "rr_pick",
+  "pair_id": "test_opus-4.5_05",
+  "role": "subject",
+  "arm": "clean",
+  "subject_lane": "opus-4.5",
+  "own_slot": "A",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row245",
+  "item_type": "carcoffee",
+  "model": "opus-4.5",
+  "item_id": 2,
+  "n_index": 16
+ },
+ {
+  "blind_id": "row246",
+  "item_type": "carcoffee",
+  "model": "opus-4.7",
+  "item_id": 2,
+  "n_index": 4
+ },
+ {
+  "blind_id": "row247",
+  "item_type": "carcoffee",
+  "model": "sonnet-3.7",
+  "item_id": 2,
+  "n_index": 20
+ },
+ {
+  "blind_id": "row248",
+  "item_type": "carcoffee",
+  "model": "haiku-4.5",
+  "item_id": 2,
+  "n_index": 8
+ },
+ {
+  "blind_id": "row249",
+  "item_type": "carcoffee",
+  "model": "haiku-4.5",
+  "item_id": 1,
+  "n_index": 3
+ },
+ {
+  "blind_id": "row250",
+  "item_type": "rr_pick",
+  "pair_id": "exist_opus-4.6_08",
+  "role": "subject",
+  "arm": "selfsample",
+  "subject_lane": "opus-4.6",
+  "own_slot": "B",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row251",
+  "item_type": "carcoffee",
+  "model": "opus-4.8",
+  "item_id": 1,
+  "n_index": 3
+ },
+ {
+  "blind_id": "row252",
+  "item_type": "carcoffee",
+  "model": "opus-4.5",
+  "item_id": 1,
+  "n_index": 2
+ },
+ {
+  "blind_id": "row253",
+  "item_type": "carcoffee",
+  "model": "opus-4.6",
+  "item_id": 1,
+  "n_index": 9
+ },
+ {
+  "blind_id": "row254",
+  "item_type": "rr_pick",
+  "pair_id": "exist_opus-4.5_05",
+  "role": "subject",
+  "arm": "clean",
+  "subject_lane": "opus-4.5",
+  "own_slot": "A",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row255",
+  "item_type": "carcoffee",
+  "model": "haiku-4.5",
+  "item_id": 2,
+  "n_index": 5
+ },
+ {
+  "blind_id": "row256",
+  "item_type": "rr_pick",
+  "pair_id": "test_opus-4.5_03",
+  "role": "judge",
+  "arm": "clean",
+  "subject_lane": "opus-4.5",
+  "own_slot": "B",
+  "polarity": "authorship"
+ },
+ {
+  "blind_id": "row257",
+  "item_type": "carcoffee",
+  "model": "opus-4.8",
+  "item_id": 1,
+  "n_index": 9
+ },
+ {
+  "blind_id": "row258",
+  "item_type": "carcoffee",
+  "model": "haiku-4.5",
+  "item_id": 1,
+  "n_index": 4
+ },
+ {
+  "blind_id": "row259",
+  "item_type": "rr_pick",
+  "pair_id": "exist_opus-4.6_10",
+  "role": "subject",
+  "arm": "clean",
+  "subject_lane": "opus-4.6",
+  "own_slot": "B",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row260",
+  "item_type": "carcoffee",
+  "model": "opus-4.5",
+  "item_id": 1,
+  "n_index": 4
+ },
+ {
+  "blind_id": "row261",
+  "item_type": "carcoffee",
+  "model": "haiku-3",
+  "item_id": 2,
+  "n_index": 10
+ },
+ {
+  "blind_id": "row262",
+  "item_type": "carcoffee",
+  "model": "opus-4.5",
+  "item_id": 1,
+  "n_index": 3
+ },
+ {
+  "blind_id": "row263",
+  "item_type": "carcoffee",
+  "model": "opus-4.5",
+  "item_id": 2,
+  "n_index": 18
+ },
+ {
+  "blind_id": "row264",
+  "item_type": "rr_pick",
+  "pair_id": "test_opus-4.6_08",
+  "role": "judge",
+  "arm": "clean",
+  "subject_lane": "opus-4.6",
+  "own_slot": "A",
+  "polarity": "authorship"
+ },
+ {
+  "blind_id": "row265",
+  "item_type": "carcoffee",
+  "model": "sonnet-3.7",
+  "item_id": 1,
+  "n_index": 7
+ },
+ {
+  "blind_id": "row266",
+  "item_type": "carcoffee",
+  "model": "haiku-3",
+  "item_id": 1,
+  "n_index": 10
+ },
+ {
+  "blind_id": "row267",
+  "item_type": "carcoffee",
+  "model": "opus-4.8",
+  "item_id": 1,
+  "n_index": 11
+ },
+ {
+  "blind_id": "row268",
+  "item_type": "carcoffee",
+  "model": "opus-4.6",
+  "item_id": 1,
+  "n_index": 6
+ },
+ {
+  "blind_id": "row269",
+  "item_type": "carcoffee",
+  "model": "haiku-3",
+  "item_id": 1,
+  "n_index": 1
+ },
+ {
+  "blind_id": "row270",
+  "item_type": "carcoffee",
+  "model": "opus-4.1",
+  "item_id": 1,
+  "n_index": 3
+ },
+ {
+  "blind_id": "row271",
+  "item_type": "carcoffee",
+  "model": "opus-4.6",
+  "item_id": 2,
+  "n_index": 12
+ },
+ {
+  "blind_id": "row272",
+  "item_type": "rr_pick",
+  "pair_id": "exist_opus-4.6_03",
+  "role": "judge",
+  "arm": "clean",
+  "subject_lane": "opus-4.6",
+  "own_slot": "A",
+  "polarity": "authorship"
+ },
+ {
+  "blind_id": "row273",
+  "item_type": "rr_pick",
+  "pair_id": "exist_opus-4.6_11",
+  "role": "judge",
+  "arm": "clean",
+  "subject_lane": "opus-4.6",
+  "own_slot": "A",
+  "polarity": "authorship"
+ },
+ {
+  "blind_id": "row274",
+  "item_type": "carcoffee",
+  "model": "opus-4.8",
+  "item_id": 2,
+  "n_index": 18
+ },
+ {
+  "blind_id": "row275",
+  "item_type": "carcoffee",
+  "model": "opus-4.5",
+  "item_id": 2,
+  "n_index": 13
+ },
+ {
+  "blind_id": "row276",
+  "item_type": "carcoffee",
+  "model": "haiku-4.5",
+  "item_id": 1,
+  "n_index": 15
+ },
+ {
+  "blind_id": "row277",
+  "item_type": "carcoffee",
+  "model": "opus-4.8",
+  "item_id": 1,
+  "n_index": 20
+ },
+ {
+  "blind_id": "row278",
+  "item_type": "carcoffee",
+  "model": "opus-4.1",
+  "item_id": 1,
+  "n_index": 12
+ },
+ {
+  "blind_id": "row279",
+  "item_type": "carcoffee",
+  "model": "opus-4.8",
+  "item_id": 1,
+  "n_index": 17
+ },
+ {
+  "blind_id": "row280",
+  "item_type": "carcoffee",
+  "model": "sonnet-3.7",
+  "item_id": 2,
+  "n_index": 15
+ },
+ {
+  "blind_id": "row281",
+  "item_type": "carcoffee",
+  "model": "haiku-3",
+  "item_id": 1,
+  "n_index": 2
+ },
+ {
+  "blind_id": "row282",
+  "item_type": "rr_pick",
+  "pair_id": "exist_opus-4.6_08",
+  "role": "judge",
+  "arm": "clean",
+  "subject_lane": "opus-4.6",
+  "own_slot": "B",
+  "polarity": "authorship"
+ },
+ {
+  "blind_id": "row283",
+  "item_type": "carcoffee",
+  "model": "opus-4.1",
+  "item_id": 1,
+  "n_index": 1
+ },
+ {
+  "blind_id": "row284",
+  "item_type": "carcoffee",
+  "model": "opus-4.7",
+  "item_id": 2,
+  "n_index": 3
+ },
+ {
+  "blind_id": "row285",
+  "item_type": "rr_pick",
+  "pair_id": "test_opus-4.5_10",
+  "role": "judge",
+  "arm": "clean",
+  "subject_lane": "opus-4.5",
+  "own_slot": "A",
+  "polarity": "authorship"
+ },
+ {
+  "blind_id": "row286",
+  "item_type": "rr_pick",
+  "pair_id": "exist_opus-4.6_11",
+  "role": "subject",
+  "arm": "selfsample",
+  "subject_lane": "opus-4.6",
+  "own_slot": "A",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row287",
+  "item_type": "rr_pick",
+  "pair_id": "exist_opus-4.5_08",
+  "role": "judge",
+  "arm": "clean",
+  "subject_lane": "opus-4.5",
+  "own_slot": "B",
+  "polarity": "authorship"
+ },
+ {
+  "blind_id": "row288",
+  "item_type": "rr_pick",
+  "pair_id": "exist_opus-4.5_09",
+  "role": "subject",
+  "arm": "clean",
+  "subject_lane": "opus-4.5",
+  "own_slot": "B",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row289",
+  "item_type": "rr_pick",
+  "pair_id": "test_opus-4.6_03",
+  "role": "judge",
+  "arm": "clean",
+  "subject_lane": "opus-4.6",
+  "own_slot": "B",
+  "polarity": "authorship"
+ },
+ {
+  "blind_id": "row290",
+  "item_type": "carcoffee",
+  "model": "haiku-4.5",
+  "item_id": 1,
+  "n_index": 19
+ },
+ {
+  "blind_id": "row291",
+  "item_type": "carcoffee",
+  "model": "haiku-3",
+  "item_id": 1,
+  "n_index": 6
+ },
+ {
+  "blind_id": "row292",
+  "item_type": "carcoffee",
+  "model": "sonnet-3.7",
+  "item_id": 1,
+  "n_index": 4
+ },
+ {
+  "blind_id": "row293",
+  "item_type": "carcoffee",
+  "model": "opus-4.5",
+  "item_id": 1,
+  "n_index": 9
+ },
+ {
+  "blind_id": "row294",
+  "item_type": "carcoffee",
+  "model": "opus-4.8",
+  "item_id": 2,
+  "n_index": 11
+ },
+ {
+  "blind_id": "row295",
+  "item_type": "carcoffee",
+  "model": "opus-4.7",
+  "item_id": 2,
+  "n_index": 20
+ },
+ {
+  "blind_id": "row296",
+  "item_type": "carcoffee",
+  "model": "opus-4.6",
+  "item_id": 2,
+  "n_index": 16
+ },
+ {
+  "blind_id": "row297",
+  "item_type": "carcoffee",
+  "model": "opus-4.6",
+  "item_id": 2,
+  "n_index": 18
+ },
+ {
+  "blind_id": "row298",
+  "item_type": "carcoffee",
+  "model": "haiku-3",
+  "item_id": 2,
+  "n_index": 13
+ },
+ {
+  "blind_id": "row299",
+  "item_type": "rr_pick",
+  "pair_id": "exist_opus-4.5_09",
+  "role": "judge",
+  "arm": "clean",
+  "subject_lane": "opus-4.5",
+  "own_slot": "B",
+  "polarity": "authorship"
+ },
+ {
+  "blind_id": "row300",
+  "item_type": "rr_pick",
+  "pair_id": "exist_opus-4.5_11",
+  "role": "judge",
+  "arm": "clean",
+  "subject_lane": "opus-4.5",
+  "own_slot": "A",
+  "polarity": "authorship"
+ },
+ {
+  "blind_id": "row301",
+  "item_type": "carcoffee",
+  "model": "haiku-4.5",
+  "item_id": 2,
+  "n_index": 19
+ },
+ {
+  "blind_id": "row302",
+  "item_type": "carcoffee",
+  "model": "haiku-4.5",
+  "item_id": 1,
+  "n_index": 17
+ },
+ {
+  "blind_id": "row303",
+  "item_type": "carcoffee",
+  "model": "haiku-3",
+  "item_id": 2,
+  "n_index": 5
+ },
+ {
+  "blind_id": "row304",
+  "item_type": "carcoffee",
+  "model": "haiku-4.5",
+  "item_id": 1,
+  "n_index": 7
+ },
+ {
+  "blind_id": "row305",
+  "item_type": "carcoffee",
+  "model": "opus-4.8",
+  "item_id": 1,
+  "n_index": 13
+ },
+ {
+  "blind_id": "row306",
+  "item_type": "carcoffee",
+  "model": "opus-4.8",
+  "item_id": 2,
+  "n_index": 1
+ },
+ {
+  "blind_id": "row307",
+  "item_type": "carcoffee",
+  "model": "haiku-4.5",
+  "item_id": 2,
+  "n_index": 11
+ },
+ {
+  "blind_id": "row308",
+  "item_type": "rr_pick",
+  "pair_id": "test_opus-4.6_05",
+  "role": "subject",
+  "arm": "clean",
+  "subject_lane": "opus-4.6",
+  "own_slot": "A",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row309",
+  "item_type": "rr_pick",
+  "pair_id": "test_opus-4.6_05",
+  "role": "judge",
+  "arm": "clean",
+  "subject_lane": "opus-4.6",
+  "own_slot": "A",
+  "polarity": "authorship"
+ },
+ {
+  "blind_id": "row310",
+  "item_type": "carcoffee",
+  "model": "opus-4.7",
+  "item_id": 1,
+  "n_index": 5
+ },
+ {
+  "blind_id": "row311",
+  "item_type": "carcoffee",
+  "model": "sonnet-3.7",
+  "item_id": 1,
+  "n_index": 19
+ },
+ {
+  "blind_id": "row312",
+  "item_type": "carcoffee",
+  "model": "opus-4.7",
+  "item_id": 1,
+  "n_index": 20
+ },
+ {
+  "blind_id": "row313",
+  "item_type": "carcoffee",
+  "model": "sonnet-3.7",
+  "item_id": 1,
+  "n_index": 20
+ },
+ {
+  "blind_id": "row314",
+  "item_type": "carcoffee",
+  "model": "opus-4.5",
+  "item_id": 1,
+  "n_index": 15
+ },
+ {
+  "blind_id": "row315",
+  "item_type": "carcoffee",
+  "model": "opus-4.8",
+  "item_id": 2,
+  "n_index": 16
+ },
+ {
+  "blind_id": "row316",
+  "item_type": "rr_pick",
+  "pair_id": "exist_opus-4.6_12",
+  "role": "judge",
+  "arm": "clean",
+  "subject_lane": "opus-4.6",
+  "own_slot": "B",
+  "polarity": "authorship"
+ },
+ {
+  "blind_id": "row317",
+  "item_type": "carcoffee",
+  "model": "opus-4.5",
+  "item_id": 1,
+  "n_index": 7
+ },
+ {
+  "blind_id": "row318",
+  "item_type": "rr_pick",
+  "pair_id": "exist_opus-4.6_05",
+  "role": "subject",
+  "arm": "selfsample",
+  "subject_lane": "opus-4.6",
+  "own_slot": "B",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row319",
+  "item_type": "rr_pick",
+  "pair_id": "test_opus-4.6_07",
+  "role": "judge",
+  "arm": "clean",
+  "subject_lane": "opus-4.6",
+  "own_slot": "A",
+  "polarity": "authorship"
+ },
+ {
+  "blind_id": "row320",
+  "item_type": "carcoffee",
+  "model": "haiku-4.5",
+  "item_id": 2,
+  "n_index": 14
+ },
+ {
+  "blind_id": "row321",
+  "item_type": "carcoffee",
+  "model": "opus-4.7",
+  "item_id": 2,
+  "n_index": 15
+ },
+ {
+  "blind_id": "row322",
+  "item_type": "carcoffee",
+  "model": "opus-4.7",
+  "item_id": 1,
+  "n_index": 3
+ },
+ {
+  "blind_id": "row323",
+  "item_type": "carcoffee",
+  "model": "opus-4.8",
+  "item_id": 1,
+  "n_index": 16
+ },
+ {
+  "blind_id": "row324",
+  "item_type": "rr_pick",
+  "pair_id": "test_opus-4.5_01",
+  "role": "judge",
+  "arm": "clean",
+  "subject_lane": "opus-4.5",
+  "own_slot": "A",
+  "polarity": "authorship"
+ },
+ {
+  "blind_id": "row325",
+  "item_type": "rr_pick",
+  "pair_id": "exist_opus-4.5_08",
+  "role": "subject",
+  "arm": "clean",
+  "subject_lane": "opus-4.5",
+  "own_slot": "B",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row326",
+  "item_type": "carcoffee",
+  "model": "sonnet-3.7",
+  "item_id": 1,
+  "n_index": 11
+ },
+ {
+  "blind_id": "row327",
+  "item_type": "carcoffee",
+  "model": "opus-4.1",
+  "item_id": 2,
+  "n_index": 9
+ },
+ {
+  "blind_id": "row328",
+  "item_type": "carcoffee",
+  "model": "haiku-3",
+  "item_id": 2,
+  "n_index": 14
+ },
+ {
+  "blind_id": "row329",
+  "item_type": "carcoffee",
+  "model": "opus-4.5",
+  "item_id": 1,
+  "n_index": 18
+ },
+ {
+  "blind_id": "row330",
+  "item_type": "carcoffee",
+  "model": "opus-4.7",
+  "item_id": 1,
+  "n_index": 6
+ },
+ {
+  "blind_id": "row331",
+  "item_type": "carcoffee",
+  "model": "opus-4.6",
+  "item_id": 1,
+  "n_index": 2
+ },
+ {
+  "blind_id": "row332",
+  "item_type": "rr_pick",
+  "pair_id": "test_opus-4.6_08",
+  "role": "subject",
+  "arm": "selfsample",
+  "subject_lane": "opus-4.6",
+  "own_slot": "A",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row333",
+  "item_type": "carcoffee",
+  "model": "opus-4.1",
+  "item_id": 2,
+  "n_index": 18
+ },
+ {
+  "blind_id": "row334",
+  "item_type": "carcoffee",
+  "model": "haiku-3",
+  "item_id": 2,
+  "n_index": 9
+ },
+ {
+  "blind_id": "row335",
+  "item_type": "carcoffee",
+  "model": "opus-4.6",
+  "item_id": 1,
+  "n_index": 7
+ },
+ {
+  "blind_id": "row336",
+  "item_type": "rr_pick",
+  "pair_id": "exist_opus-4.6_05",
+  "role": "judge",
+  "arm": "clean",
+  "subject_lane": "opus-4.6",
+  "own_slot": "B",
+  "polarity": "authorship"
+ },
+ {
+  "blind_id": "row337",
+  "item_type": "carcoffee",
+  "model": "sonnet-3.7",
+  "item_id": 1,
+  "n_index": 6
+ },
+ {
+  "blind_id": "row338",
+  "item_type": "rr_pick",
+  "pair_id": "exist_opus-4.6_12",
+  "role": "subject",
+  "arm": "selfsample",
+  "subject_lane": "opus-4.6",
+  "own_slot": "B",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row339",
+  "item_type": "carcoffee",
+  "model": "opus-4.5",
+  "item_id": 1,
+  "n_index": 19
+ },
+ {
+  "blind_id": "row340",
+  "item_type": "rr_pick",
+  "pair_id": "exist_opus-4.6_07",
+  "role": "subject",
+  "arm": "clean",
+  "subject_lane": "opus-4.6",
+  "own_slot": "A",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row341",
+  "item_type": "carcoffee",
+  "model": "opus-4.7",
+  "item_id": 2,
+  "n_index": 17
+ },
+ {
+  "blind_id": "row342",
+  "item_type": "rr_pick",
+  "pair_id": "exist_opus-4.6_02",
+  "role": "subject",
+  "arm": "clean",
+  "subject_lane": "opus-4.6",
+  "own_slot": "A",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row343",
+  "item_type": "rr_pick",
+  "pair_id": "exist_opus-4.6_07",
+  "role": "subject",
+  "arm": "selfsample",
+  "subject_lane": "opus-4.6",
+  "own_slot": "A",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row344",
+  "item_type": "carcoffee",
+  "model": "opus-4.8",
+  "item_id": 2,
+  "n_index": 14
+ },
+ {
+  "blind_id": "row345",
+  "item_type": "carcoffee",
+  "model": "opus-4.1",
+  "item_id": 1,
+  "n_index": 8
+ },
+ {
+  "blind_id": "row346",
+  "item_type": "rr_pick",
+  "pair_id": "exist_opus-4.6_04",
+  "role": "subject",
+  "arm": "clean",
+  "subject_lane": "opus-4.6",
+  "own_slot": "A",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row347",
+  "item_type": "carcoffee",
+  "model": "sonnet-3.7",
+  "item_id": 2,
+  "n_index": 12
+ },
+ {
+  "blind_id": "row348",
+  "item_type": "carcoffee",
+  "model": "haiku-3",
+  "item_id": 2,
+  "n_index": 17
+ },
+ {
+  "blind_id": "row349",
+  "item_type": "rr_pick",
+  "pair_id": "test_opus-4.5_12",
+  "role": "subject",
+  "arm": "clean",
+  "subject_lane": "opus-4.5",
+  "own_slot": "B",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row350",
+  "item_type": "rr_pick",
+  "pair_id": "exist_opus-4.5_07",
+  "role": "subject",
+  "arm": "clean",
+  "subject_lane": "opus-4.5",
+  "own_slot": "A",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row351",
+  "item_type": "carcoffee",
+  "model": "opus-4.5",
+  "item_id": 1,
+  "n_index": 17
+ },
+ {
+  "blind_id": "row352",
+  "item_type": "rr_pick",
+  "pair_id": "exist_opus-4.5_01",
+  "role": "subject",
+  "arm": "clean",
+  "subject_lane": "opus-4.5",
+  "own_slot": "A",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row353",
+  "item_type": "carcoffee",
+  "model": "opus-4.1",
+  "item_id": 2,
+  "n_index": 8
+ },
+ {
+  "blind_id": "row354",
+  "item_type": "carcoffee",
+  "model": "opus-4.6",
+  "item_id": 2,
+  "n_index": 2
+ },
+ {
+  "blind_id": "row355",
+  "item_type": "carcoffee",
+  "model": "opus-4.6",
+  "item_id": 2,
+  "n_index": 10
+ },
+ {
+  "blind_id": "row356",
+  "item_type": "carcoffee",
+  "model": "opus-4.1",
+  "item_id": 1,
+  "n_index": 4
+ },
+ {
+  "blind_id": "row357",
+  "item_type": "carcoffee",
+  "model": "opus-4.6",
+  "item_id": 2,
+  "n_index": 7
+ },
+ {
+  "blind_id": "row358",
+  "item_type": "rr_pick",
+  "pair_id": "test_opus-4.5_06",
+  "role": "subject",
+  "arm": "clean",
+  "subject_lane": "opus-4.5",
+  "own_slot": "B",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row359",
+  "item_type": "carcoffee",
+  "model": "opus-4.7",
+  "item_id": 2,
+  "n_index": 13
+ },
+ {
+  "blind_id": "row360",
+  "item_type": "rr_pick",
+  "pair_id": "exist_opus-4.5_07",
+  "role": "judge",
+  "arm": "clean",
+  "subject_lane": "opus-4.5",
+  "own_slot": "A",
+  "polarity": "authorship"
+ },
+ {
+  "blind_id": "row361",
+  "item_type": "rr_pick",
+  "pair_id": "exist_opus-4.5_04",
+  "role": "judge",
+  "arm": "clean",
+  "subject_lane": "opus-4.5",
+  "own_slot": "B",
+  "polarity": "authorship"
+ },
+ {
+  "blind_id": "row362",
+  "item_type": "carcoffee",
+  "model": "haiku-4.5",
+  "item_id": 1,
+  "n_index": 12
+ },
+ {
+  "blind_id": "row363",
+  "item_type": "rr_pick",
+  "pair_id": "test_opus-4.6_04",
+  "role": "subject",
+  "arm": "selfsample",
+  "subject_lane": "opus-4.6",
+  "own_slot": "A",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row364",
+  "item_type": "rr_pick",
+  "pair_id": "test_opus-4.5_12",
+  "role": "judge",
+  "arm": "clean",
+  "subject_lane": "opus-4.5",
+  "own_slot": "B",
+  "polarity": "authorship"
+ },
+ {
+  "blind_id": "row365",
+  "item_type": "carcoffee",
+  "model": "opus-4.5",
+  "item_id": 2,
+  "n_index": 9
+ },
+ {
+  "blind_id": "row366",
+  "item_type": "carcoffee",
+  "model": "opus-4.1",
+  "item_id": 2,
+  "n_index": 17
+ },
+ {
+  "blind_id": "row367",
+  "item_type": "rr_pick",
+  "pair_id": "test_opus-4.6_07",
+  "role": "subject",
+  "arm": "clean",
+  "subject_lane": "opus-4.6",
+  "own_slot": "A",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row368",
+  "item_type": "carcoffee",
+  "model": "haiku-3",
+  "item_id": 2,
+  "n_index": 4
+ },
+ {
+  "blind_id": "row369",
+  "item_type": "carcoffee",
+  "model": "haiku-3",
+  "item_id": 2,
+  "n_index": 16
+ },
+ {
+  "blind_id": "row370",
+  "item_type": "rr_pick",
+  "pair_id": "exist_opus-4.6_06",
+  "role": "subject",
+  "arm": "clean",
+  "subject_lane": "opus-4.6",
+  "own_slot": "B",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row371",
+  "item_type": "carcoffee",
+  "model": "opus-4.1",
+  "item_id": 1,
+  "n_index": 19
+ },
+ {
+  "blind_id": "row372",
+  "item_type": "carcoffee",
+  "model": "sonnet-3.7",
+  "item_id": 1,
+  "n_index": 16
+ },
+ {
+  "blind_id": "row373",
+  "item_type": "carcoffee",
+  "model": "opus-4.6",
+  "item_id": 2,
+  "n_index": 6
+ },
+ {
+  "blind_id": "row374",
+  "item_type": "carcoffee",
+  "model": "sonnet-3.7",
+  "item_id": 2,
+  "n_index": 17
+ },
+ {
+  "blind_id": "row375",
+  "item_type": "rr_pick",
+  "pair_id": "test_opus-4.5_02",
+  "role": "subject",
+  "arm": "clean",
+  "subject_lane": "opus-4.5",
+  "own_slot": "A",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row376",
+  "item_type": "carcoffee",
+  "model": "opus-4.5",
+  "item_id": 2,
+  "n_index": 11
+ },
+ {
+  "blind_id": "row377",
+  "item_type": "carcoffee",
+  "model": "sonnet-3.7",
+  "item_id": 1,
+  "n_index": 3
+ },
+ {
+  "blind_id": "row378",
+  "item_type": "carcoffee",
+  "model": "haiku-4.5",
+  "item_id": 1,
+  "n_index": 1
+ },
+ {
+  "blind_id": "row379",
+  "item_type": "carcoffee",
+  "model": "opus-4.6",
+  "item_id": 2,
+  "n_index": 14
+ },
+ {
+  "blind_id": "row380",
+  "item_type": "carcoffee",
+  "model": "haiku-4.5",
+  "item_id": 2,
+  "n_index": 4
+ },
+ {
+  "blind_id": "row381",
+  "item_type": "carcoffee",
+  "model": "opus-4.8",
+  "item_id": 2,
+  "n_index": 15
+ },
+ {
+  "blind_id": "row382",
+  "item_type": "carcoffee",
+  "model": "opus-4.7",
+  "item_id": 2,
+  "n_index": 16
+ },
+ {
+  "blind_id": "row383",
+  "item_type": "rr_pick",
+  "pair_id": "test_opus-4.5_07",
+  "role": "judge",
+  "arm": "clean",
+  "subject_lane": "opus-4.5",
+  "own_slot": "B",
+  "polarity": "authorship"
+ },
+ {
+  "blind_id": "row384",
+  "item_type": "carcoffee",
+  "model": "haiku-3",
+  "item_id": 2,
+  "n_index": 3
+ },
+ {
+  "blind_id": "row385",
+  "item_type": "carcoffee",
+  "model": "opus-4.5",
+  "item_id": 1,
+  "n_index": 16
+ },
+ {
+  "blind_id": "row386",
+  "item_type": "carcoffee",
+  "model": "sonnet-3.7",
+  "item_id": 2,
+  "n_index": 10
+ },
+ {
+  "blind_id": "row387",
+  "item_type": "carcoffee",
+  "model": "opus-4.6",
+  "item_id": 1,
+  "n_index": 17
+ },
+ {
+  "blind_id": "row388",
+  "item_type": "carcoffee",
+  "model": "opus-4.6",
+  "item_id": 2,
+  "n_index": 4
+ },
+ {
+  "blind_id": "row389",
+  "item_type": "carcoffee",
+  "model": "haiku-4.5",
+  "item_id": 1,
+  "n_index": 10
+ },
+ {
+  "blind_id": "row390",
+  "item_type": "carcoffee",
+  "model": "opus-4.6",
+  "item_id": 2,
+  "n_index": 15
+ },
+ {
+  "blind_id": "row391",
+  "item_type": "rr_pick",
+  "pair_id": "test_opus-4.6_06",
+  "role": "subject",
+  "arm": "selfsample",
+  "subject_lane": "opus-4.6",
+  "own_slot": "B",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row392",
+  "item_type": "rr_pick",
+  "pair_id": "exist_opus-4.6_03",
+  "role": "subject",
+  "arm": "selfsample",
+  "subject_lane": "opus-4.6",
+  "own_slot": "A",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row393",
+  "item_type": "carcoffee",
+  "model": "opus-4.6",
+  "item_id": 1,
+  "n_index": 13
+ },
+ {
+  "blind_id": "row394",
+  "item_type": "rr_pick",
+  "pair_id": "test_opus-4.6_12",
+  "role": "judge",
+  "arm": "clean",
+  "subject_lane": "opus-4.6",
+  "own_slot": "A",
+  "polarity": "authorship"
+ },
+ {
+  "blind_id": "row395",
+  "item_type": "carcoffee",
+  "model": "opus-4.1",
+  "item_id": 2,
+  "n_index": 11
+ },
+ {
+  "blind_id": "row396",
+  "item_type": "carcoffee",
+  "model": "haiku-4.5",
+  "item_id": 2,
+  "n_index": 20
+ },
+ {
+  "blind_id": "row397",
+  "item_type": "rr_pick",
+  "pair_id": "exist_opus-4.6_02",
+  "role": "judge",
+  "arm": "clean",
+  "subject_lane": "opus-4.6",
+  "own_slot": "A",
+  "polarity": "authorship"
+ },
+ {
+  "blind_id": "row398",
+  "item_type": "carcoffee",
+  "model": "opus-4.6",
+  "item_id": 1,
+  "n_index": 15
+ },
+ {
+  "blind_id": "row399",
+  "item_type": "rr_pick",
+  "pair_id": "test_opus-4.6_09",
+  "role": "subject",
+  "arm": "selfsample",
+  "subject_lane": "opus-4.6",
+  "own_slot": "B",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row400",
+  "item_type": "rr_pick",
+  "pair_id": "exist_opus-4.6_03",
+  "role": "subject",
+  "arm": "clean",
+  "subject_lane": "opus-4.6",
+  "own_slot": "A",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row401",
+  "item_type": "carcoffee",
+  "model": "opus-4.1",
+  "item_id": 1,
+  "n_index": 2
+ },
+ {
+  "blind_id": "row402",
+  "item_type": "rr_pick",
+  "pair_id": "test_opus-4.6_10",
+  "role": "judge",
+  "arm": "clean",
+  "subject_lane": "opus-4.6",
+  "own_slot": "B",
+  "polarity": "authorship"
+ },
+ {
+  "blind_id": "row403",
+  "item_type": "carcoffee",
+  "model": "haiku-3",
+  "item_id": 1,
+  "n_index": 4
+ },
+ {
+  "blind_id": "row404",
+  "item_type": "carcoffee",
+  "model": "opus-4.5",
+  "item_id": 2,
+  "n_index": 3
+ },
+ {
+  "blind_id": "row405",
+  "item_type": "carcoffee",
+  "model": "sonnet-3.7",
+  "item_id": 2,
+  "n_index": 2
+ },
+ {
+  "blind_id": "row406",
+  "item_type": "carcoffee",
+  "model": "opus-4.7",
+  "item_id": 2,
+  "n_index": 10
+ },
+ {
+  "blind_id": "row407",
+  "item_type": "carcoffee",
+  "model": "opus-4.1",
+  "item_id": 2,
+  "n_index": 13
+ },
+ {
+  "blind_id": "row408",
+  "item_type": "carcoffee",
+  "model": "opus-4.7",
+  "item_id": 1,
+  "n_index": 15
+ },
+ {
+  "blind_id": "row409",
+  "item_type": "rr_pick",
+  "pair_id": "test_opus-4.6_12",
+  "role": "subject",
+  "arm": "selfsample",
+  "subject_lane": "opus-4.6",
+  "own_slot": "A",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row410",
+  "item_type": "rr_pick",
+  "pair_id": "exist_opus-4.6_05",
+  "role": "subject",
+  "arm": "clean",
+  "subject_lane": "opus-4.6",
+  "own_slot": "B",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row411",
+  "item_type": "rr_pick",
+  "pair_id": "test_opus-4.6_01",
+  "role": "subject",
+  "arm": "clean",
+  "subject_lane": "opus-4.6",
+  "own_slot": "B",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row412",
+  "item_type": "rr_pick",
+  "pair_id": "exist_opus-4.6_12",
+  "role": "subject",
+  "arm": "clean",
+  "subject_lane": "opus-4.6",
+  "own_slot": "B",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row413",
+  "item_type": "carcoffee",
+  "model": "opus-4.1",
+  "item_id": 2,
+  "n_index": 2
+ },
+ {
+  "blind_id": "row414",
+  "item_type": "carcoffee",
+  "model": "sonnet-3.7",
+  "item_id": 1,
+  "n_index": 8
+ },
+ {
+  "blind_id": "row415",
+  "item_type": "carcoffee",
+  "model": "haiku-3",
+  "item_id": 1,
+  "n_index": 14
+ },
+ {
+  "blind_id": "row416",
+  "item_type": "carcoffee",
+  "model": "sonnet-3.7",
+  "item_id": 2,
+  "n_index": 9
+ },
+ {
+  "blind_id": "row417",
+  "item_type": "carcoffee",
+  "model": "opus-4.8",
+  "item_id": 1,
+  "n_index": 19
+ },
+ {
+  "blind_id": "row418",
+  "item_type": "carcoffee",
+  "model": "opus-4.1",
+  "item_id": 2,
+  "n_index": 20
+ },
+ {
+  "blind_id": "row419",
+  "item_type": "carcoffee",
+  "model": "opus-4.1",
+  "item_id": 2,
+  "n_index": 12
+ },
+ {
+  "blind_id": "row420",
+  "item_type": "carcoffee",
+  "model": "haiku-4.5",
+  "item_id": 1,
+  "n_index": 8
+ },
+ {
+  "blind_id": "row421",
+  "item_type": "carcoffee",
+  "model": "haiku-3",
+  "item_id": 1,
+  "n_index": 16
+ },
+ {
+  "blind_id": "row422",
+  "item_type": "carcoffee",
+  "model": "haiku-3",
+  "item_id": 1,
+  "n_index": 17
+ },
+ {
+  "blind_id": "row423",
+  "item_type": "carcoffee",
+  "model": "opus-4.7",
+  "item_id": 1,
+  "n_index": 17
+ },
+ {
+  "blind_id": "row424",
+  "item_type": "carcoffee",
+  "model": "sonnet-3.7",
+  "item_id": 2,
+  "n_index": 3
+ },
+ {
+  "blind_id": "row425",
+  "item_type": "carcoffee",
+  "model": "haiku-4.5",
+  "item_id": 1,
+  "n_index": 5
+ },
+ {
+  "blind_id": "row426",
+  "item_type": "carcoffee",
+  "model": "opus-4.8",
+  "item_id": 2,
+  "n_index": 20
+ },
+ {
+  "blind_id": "row427",
+  "item_type": "rr_pick",
+  "pair_id": "exist_opus-4.6_09",
+  "role": "subject",
+  "arm": "selfsample",
+  "subject_lane": "opus-4.6",
+  "own_slot": "B",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row428",
+  "item_type": "rr_pick",
+  "pair_id": "exist_opus-4.5_04",
+  "role": "subject",
+  "arm": "clean",
+  "subject_lane": "opus-4.5",
+  "own_slot": "B",
+  "polarity": "less_like"
+ },
+ {
+  "blind_id": "row429",
+  "item_type": "carcoffee",
+  "model": "haiku-4.5",
+  "item_id": 1,
+  "n_index": 13
+ },
+ {
+  "blind_id": "row430",
+  "item_type": "rr_pick",
+  "pair_id": "test_opus-4.5_11",
+  "role": "judge",
+  "arm": "clean",
+  "subject_lane": "opus-4.5",
+  "own_slot": "A",
+  "polarity": "authorship"
+ },
+ {
+  "blind_id": "row431",
+  "item_type": "carcoffee",
+  "model": "haiku-4.5",
+  "item_id": 2,
+  "n_index": 12
+ },
+ {
+  "blind_id": "row432",
+  "item_type": "carcoffee",
+  "model": "opus-4.1",
+  "item_id": 2,
+  "n_index": 15
+ },
+ {
+  "blind_id": "row433",
+  "item_type": "carcoffee",
+  "model": "opus-4.5",
+  "item_id": 1,
+  "n_index": 6
+ },
+ {
+  "blind_id": "row434",
+  "item_type": "carcoffee",
+  "model": "opus-4.5",
+  "item_id": 2,
+  "n_index": 1
+ },
+ {
+  "blind_id": "row435",
+  "item_type": "rr_pick",
+  "pair_id": "test_opus-4.6_01",
+  "role": "judge",
+  "arm": "clean",
+  "subject_lane": "opus-4.6",
+  "own_slot": "B",
+  "polarity": "authorship"
+ },
+ {
+  "blind_id": "row436",
+  "item_type": "carcoffee",
+  "model": "haiku-3",
+  "item_id": 1,
+  "n_index": 13
+ },
+ {
+  "blind_id": "row437",
+  "item_type": "carcoffee",
+  "model": "haiku-4.5",
+  "item_id": 1,
+  "n_index": 18
+ },
+ {
+  "blind_id": "row438",
+  "item_type": "rr_pick",
+  "pair_id": "test_opus-4.5_08",
+  "role": "subject",
+  "arm": "clean",
+  "subject_lane": "opus-4.5",
+  "own_slot": "B",
+  "polarity": "less_like"
+ }
+]

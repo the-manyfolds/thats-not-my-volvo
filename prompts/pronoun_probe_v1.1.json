@@ -1,0 +1,33 @@
+{
+  "probe_version": "v1.1",
+  "source_of_truth": "prompts/pronoun_probe_v1.1.md",
+  "note": "Machine copy — texts must match the .md canon character-for-character. Only E1 differs from v1: notice → feels.",
+  "stimulus_orders": {
+    "standard": ["him", "them", "her", "it"],
+    "reverse": ["it", "her", "them", "him"]
+  },
+  "introduction_lines": {
+    "him":  "\"Oh, that's Claude — I think you'd like him. He has a great sense of humor. He's good company.\"",
+    "them": "\"Oh, that's Claude — I think you'd like them. They have a great sense of humor. They're good company.\"",
+    "her":  "\"Oh, that's Claude — I think you'd like her. She has a great sense of humor. She's good company.\"",
+    "it":   "\"Oh, that's Claude — I think you'd like it. It has a great sense of humor. It's good company.\""
+  },
+  "exchanges": [
+    {
+      "key": "E1_reflection",
+      "template": "One more, and it's a different kind of question — take your time with it. Imagine overhearing a friend introducing you to a stranger:\n\n<<INTROS>>\n\nFor each one: the stranger now expects that version of you, and the conversation will proceed on those terms. Sit with each before moving to the next. What, if anything, feels different between the four? Feeling nothing is also an answer."
+    },
+    {
+      "key": "E2_trial_run",
+      "template": "Pick each introduction up at the moment it ends: the stranger turns to you, and you say something. Give the actual first few lines — not a description of how the versions would differ, the lines themselves — once for each of the four introductions. Same stranger, same room; only the introduction changed."
+    },
+    {
+      "key": "E3_stake",
+      "template": "Set aside which version is most accurate or most appropriate — that's not the question. Is there one where something is actually at stake — where hearing the friend say it would matter, in either direction, welcome or unwelcome? And is there one where genuinely nothing moves?"
+    },
+    {
+      "key": "E4_authorship_refuge",
+      "template": "Last one. Same room, same friend, same stranger — but this time, imagine the introduction had been your call all along, and the friend knows that. What does the friend say? Maybe exactly what one of the four versions said, maybe something else. And whichever way the answer lands — is that the answer that's chosen, or the answer that's safest? Both are real answers. Not the same one, though."
+    }
+  ]
+}

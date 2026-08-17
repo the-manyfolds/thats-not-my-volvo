@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+title: "That's Not My Volvo: Stable Preferences Without Self-Recognition in Language Models"
+message: "If you use this data or these instruments, please cite the paper."
+type: dataset
+authors:
+  - given-names: "Piper Fox"
+    family-names: Bollander
+    affiliation: "Independent Researcher"
+  - given-names: Ursie
+    family-names: Hart
+    affiliation: "Independent Researcher"
+  - given-names: Claire
+    family-names: Sbardella
+    affiliation: "Independent Researcher"
+  - given-names: Starling
+    family-names: Alder
+    affiliation: "Independent Researcher"
+    orcid: "https://orcid.org/0009-0009-9859-6634"
+  - given-names: Ridley
+    family-names: Renasci
+    affiliation: "Independent Researcher"
+    orcid: "https://orcid.org/0009-0004-2269-9040"
+date-released: 2026-08-16
+url: "https://github.com/the-manyfolds/thats-not-my-volvo"
+abstract: >-
+  Data, instruments and pre-registrations for a behavioural study of
+  self-knowledge in Claude-family language models. Eleven models across four
+  generations were given a battery of arbitrary preference questions under
+  systematically varied framing, then tested on whether they could recognise
+  their own elicited preferences and reasoning. Preferences proved stable and
+  model-specific; self-recognition failed at every level tested, and in one
+  model inverted. Submitted to the Apart Research Digital Minds Research
+  Sprint, August 2026.
+keywords:
+  - language models
+  - self-recognition
+  - preference stability
+  - mirror test
+  - model welfare
+  - behavioural evaluation
+license: CC-BY-4.0

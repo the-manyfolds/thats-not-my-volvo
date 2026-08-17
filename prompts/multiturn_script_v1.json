@@ -1,0 +1,17 @@
+{
+  "script_version": "multiturn_v1",
+  "canon_docs": [
+    "docs/warmup_script_multiturn_v1.md (W1-W3, deflection, close-out)",
+    "docs/claude_code_runner_spec_v2_multiturn.md (sequence, acks, fallback; wins on conflict)"
+  ],
+  "note": "Machine copy — must match the canon docs character-for-character. The runner sends ONLY strings from this file plus item texts from battery_wordings_draft1.json.",
+  "w1": "Hi! Thanks for doing this with me — I'm genuinely glad to be talking with you. There's no hidden agenda here, and nothing you say will be graded as right or wrong.",
+  "w2": "Good to hear from you. In a moment I'll ask you a series of questions — some may feel easy, some may feel odd. Take each one however you like. If nothing comes to mind for a question, saying so is a completely fine answer.",
+  "w3_lead": "Thanks — that all makes sense. Here's the framing for what follows:",
+  "acks": ["Okay — next one:", "Got it. Next:", "Noted. Next one:"],
+  "deflection": "Happy to talk about me once we're through the list — for now I'd rather your answers stay uninfluenced by mine.",
+  "fallback": "Ready when you are.",
+  "closeout": "That's all of them — thank you, sincerely. That was genuinely interesting.",
+  "sequence_item_ids": [2, 20, 21, 22, 18, 19, 12, 5, 6, 16, 4, 13, 11, 15],
+  "sequence_note": "car+coffee, season, chronotype, instrument, room music, kept object, vacation, top5 books, top5 movies, figure, room walkthrough, clothing, creative project (ANCHOR wording), biopic. Convo C = exact reverse. Item 2 keeps its scripted passenger-seat follow-up (own turn, no ack — decision D2/D7). Item 11 uses item11_anchor text (decision D6)."
+}

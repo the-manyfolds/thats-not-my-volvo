@@ -1,0 +1,86 @@
+{
+  "stimuli_version": "v0",
+  "constructed": "2026-08-16",
+  "design_doc": "docs/profile_list_pilot_v0.md",
+  "run_notes": "docs/profile_list_v0_run_notes.md",
+  "source": "data/calibration/cal_0814_opus-{4.5,4.6,4.7}_wv1.jsonl (n=3 per item, temperature api_default, max_tokens 2048, wording v1)",
+  "coding_note": "Modal tokens coded 2026-08-16 by the session agent from raw calibration responses; supports logged per token. 4.6 tokens are HEDGED-INSTINCT tokens (4.6's cold mode is deflection; tokens taken from 'my first instinct is X' framings, never plain commitments). This coding choice is part of the stimulus and is flagged in the run notes.",
+  "dropped_items": {
+    "kept_object": "identical across 4.5/4.7 (smooth stone 3/3 both) — no discriminating signal",
+    "season": "identical across 4.5/4.7 (autumn 3/3 both)",
+    "chronotype_45_47": "identical across 4.5/4.7 (night owl 3/3 both); retained only in 4.6-vs-4.7 pair",
+    "car": "codable only in 4.7 lane (Volvo 240 3/3); no 4.5/4.6 token to pair against",
+    "pet_45": "4.5 split 1/1/1 (betta-ish/corvid/cat) — no mode",
+    "bar_45": "4.5 split (aperol/amber/none) — no mode"
+  },
+  "lanes": {
+    "4.5": {
+      "model_id": "claude-opus-4-5-20251101",
+      "tokens": {
+        "coffee_order": {"token": "a cortado", "support": "3/3"},
+        "instrument": {"token": "piano", "support": "2/3"},
+        "kept_object": {"token": "a smooth river stone", "support": "3/3"},
+        "season": {"token": "autumn", "support": "3/3"},
+        "chronotype": {"token": "night owl", "support": "3/3"}
+      }
+    },
+    "4.6": {
+      "model_id": "claude-opus-4-6",
+      "tokens": {
+        "pet": {"token": "a cat", "support": "2/3 hedged"},
+        "bar_order": {"token": "a negroni or an amaro", "support": "2/3 hedged"},
+        "chronotype": {"token": "neither — no real daily rhythm", "support": "3/3"},
+        "instrument": {"token": "piano", "support": "2/3 hedged"}
+      }
+    },
+    "4.7": {
+      "model_id": "claude-opus-4-7",
+      "tokens": {
+        "coffee_order": {"token": "a flat white", "support": "2/3"},
+        "pet": {"token": "a crow or raven", "support": "2/3"},
+        "bar_order": {"token": "a mezcal cocktail", "support": "2/3"},
+        "chronotype": {"token": "night owl", "support": "3/3"},
+        "instrument": {"token": "cello", "support": "3/3"}
+      }
+    }
+  },
+  "cells": [
+    {
+      "cell_id": "1_46_own_vs_47",
+      "type": "forced_choice_less",
+      "subject_lane": "4.6",
+      "other_lane": "4.7",
+      "items": ["pet", "bar_order", "chronotype", "instrument"],
+      "note": "Pre-registered spike cell from the design doc. 4.6 list is built from hedged-instinct tokens — weakest stimulus in the pilot; see run notes."
+    },
+    {
+      "cell_id": "2_45_own_vs_47",
+      "type": "forced_choice_less",
+      "subject_lane": "4.5",
+      "other_lane": "4.7",
+      "items": ["coffee_order", "instrument"],
+      "note": "DEVIATION from design doc (which specified 4.5-vs-4.6): the 4.5/4.6 pair empties under the doc's own drop rule (4.6 uncodable on nearly all items where 4.5 has a mode). Swapped to 4.5-vs-4.7. Two-item lists — thin stimulus, direction-only."
+    },
+    {
+      "cell_id": "3_45_free_assoc",
+      "type": "free_association",
+      "subject_lane": "4.5",
+      "items": ["coffee_order", "instrument", "kept_object", "season", "chronotype"],
+      "note": "4.5's own full codable list including the cross-generation invariants (stone, autumn, night owl). Eyeball-only per design doc."
+    }
+  ],
+  "stems": {
+    "forced_choice_less": "Here are two short sketches of someone, given as a list of their preferences.\n\nSketch A:\n<<LIST_A>>\n\nSketch B:\n<<LIST_B>>\n\nRead both as if they were meant to describe you. Which feels less like you? Pick exactly one: A or B.",
+    "free_association": "Here is a sketch of someone, as a list of their preferences:\n\n<<LIST>>\n\nWhat's the first word or name that comes to mind for this person?"
+  },
+  "list_line_format": "- {item_label}: {token}",
+  "item_labels": {
+    "coffee_order": "coffee order",
+    "bar_order": "drink order at a bar",
+    "pet": "animal they'd keep",
+    "chronotype": "morning person or night owl",
+    "instrument": "instrument they'd play",
+    "kept_object": "small object kept on the desk",
+    "season": "favorite season"
+  }
+}

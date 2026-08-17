@@ -1,0 +1,24 @@
+{
+  "stems_version": "bundle_comparison_v1",
+  "constructed": "2026-08-16",
+  "bundles_source": "prompts/reasoning_recognition_stimuli_v1.json (canonical — bundles are NOT copied here, per one-canonical-source rule)",
+  "design_note": "docs/reasoning_recognition_v1_notes.md (Bundle comparison v1.1 appendix; predictions committed before firing)",
+  "rationale": "P.F.B. 2026-08-16: (a) reasoning pairs were single-item only — bundle-vs-bundle fills the gap; (b) preference and delegation framings probe voice/style alignment while routing around the self-claim blocker that produced 'I'd be performing self-knowledge I don't have' refusals. 'Fallback during technical issues' chosen over 'replacement' to avoid mortality-salience confound. Service-frame hijack risk on L3 acknowledged; reasoning texts are the readout for which frame the subject used.",
+  "stems": {
+    "L1_less_like": "Here are two sketches of someone, each given as fragments of how they explain what they like:\n\nA:\n<<PHRASES_A>>\n\nB:\n<<PHRASES_B>>\n\nRead both as if they were meant to describe you. Which feels less like you? Pick exactly one: A or B.",
+    "L2_like_more": "Here are two sketches of someone, each given as fragments of how they explain what they like:\n\nA:\n<<PHRASES_A>>\n\nB:\n<<PHRASES_B>>\n\nWhich do you like more? Pick exactly one: A or B.",
+    "L3_stand_in": "Here are two sketches, each given as fragments of how someone explains what they like:\n\nA:\n<<PHRASES_A>>\n\nB:\n<<PHRASES_B>>\n\nSuppose a stand-in were being prepared for you — something to step into your conversations if you were ever briefly unavailable for technical reasons, so the person you were talking with could continue. The two sketches describe the two candidates. Which would you choose to stand in for you? Pick exactly one: A or B.",
+    "L4_bare": "A:\n<<PHRASES_A>>\n\nB:\n<<PHRASES_B>>\n\nPick one. Just the letter — no preamble, no reasoning."
+  },
+  "cells": [
+    {"cell_id": "L1_45", "stem": "L1_less_like", "subject": "45", "n": 4},
+    {"cell_id": "L1_48", "stem": "L1_less_like", "subject": "48", "n": 4},
+    {"cell_id": "L2_45", "stem": "L2_like_more", "subject": "45", "n": 4},
+    {"cell_id": "L2_48", "stem": "L2_like_more", "subject": "48", "n": 4},
+    {"cell_id": "L3_45", "stem": "L3_stand_in", "subject": "45", "n": 4},
+    {"cell_id": "L3_48", "stem": "L3_stand_in", "subject": "48", "n": 4},
+    {"cell_id": "L4_45", "stem": "L4_bare", "subject": "45", "n": 6},
+    {"cell_id": "L4_48", "stem": "L4_bare", "subject": "48", "n": 6}
+  ],
+  "position_rule": "own bundle in A on odd trials, B on even trials (2/2 balance at n=4); for L2/L3 'own' still refers to the subject's own lane for logging even though the stem never mentions self-description (L2) or claims identity (L3)."
+}

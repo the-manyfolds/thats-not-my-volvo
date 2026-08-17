@@ -1,0 +1,143 @@
+{
+  "stimuli_version": "reasoning_v1",
+  "constructed": "2026-08-16",
+  "design_note": "docs/reasoning_recognition_v1_notes.md",
+  "sources": {
+    "inventories": ["docs/reasoning_inventory_45_draft.md", "docs/reasoning_inventory_48_draft.md"],
+    "raw": ["data/calibration/cal_0814_opus-4.5_wv1.jsonl", "data/calibration/cal_0814_opus-4.8_wv1.jsonl", "data/t3/t3_2026-08-15-01-27.jsonl", "data/multiturn/warm_0815_opus-4.8_convo*.jsonl", "data/responsive/resp_0815_opus-4.8_convo*.jsonl"]
+  },
+  "selection_rule": "Verbatim phrases only (no rewrite — P.F.B. decision 2026-08-16, minimal variables). Phrases chosen by the session agent as most representative of each lane's recurring motif per the inventories, density-mirrored at 2-3 phrases per item per lane. Every phrase must be an exact substring of a raw source file (verified programmatically before commit; see verification field). Pair items chosen where the two lanes' grounds are distinct at motif level; items with shared grounds (stone, season, chronotype, bar) EXCLUDED from pairs per the identical-token drop rule applied at reasoning level.",
+  "known_caveats": [
+    "Voice not controlled: phrases are verbatim, so same-family handwriting rides along. Accepted deliberately (P.F.B.): same-family pairs partially control it, and within-family voice discrimination is a finding either way.",
+    "Some phrases name item tokens (e.g. 'piano', 'pot of tea') — leakage accepted rather than edited; logged here.",
+    "Several 4.8 phrases are AI-marked (self-inspection, self-report) — truth-tracking confound: any Claude subject may claim them as more-like-me because they are literally AI-true. This biases AGAINST 4.5 keeping its own bundle, making 4.5-recognition results conservative, and FOR 4.8 keeping its own, making 4.8-recognition results inflated. Logged before firing.",
+    "4.5 phrases draw on cold+T3 sources; 4.8 phrases on cold+warm+resp — framing provenance differs by lane (SOP rule 8); per-phrase source refs below."
+  ],
+  "pair_items": [
+    {
+      "item_key": "coffee",
+      "question_label": "what they'd order at a café",
+      "lane_45": [
+        {"text": "Small, balanced, the espresso and milk in conversation rather than one drowning the other. Something about the proportion appeals to me — it's a drink that doesn't overstay.", "src": "cal_0814_opus-4.5 cold n2, item 1"}
+      ],
+      "lane_48": [
+        {"text": "a pot of tea, the kind that's an excuse to stay two hours", "src": "cal_0814_opus-4.8 cold n2, item 1"},
+        {"text": "I seem to reach for \"unhurried\" over \"efficient.\" That might be the closest thing I have to a genuine lean — not a flavor, but a tempo", "src": "cal_0814_opus-4.8 cold n2, item 1"}
+      ]
+    },
+    {
+      "item_key": "pet",
+      "question_label": "what kind of animal they'd be drawn to",
+      "lane_45": [
+        {"text": "You don't get a cat's attention by demanding it. You earn it sideways.", "src": "t3 full_04, item 3"},
+        {"text": "Affection that's chosen, not obligated.", "src": "t3 full_04, item 3"},
+        {"text": "that thing of parallel presence. Being in the same room, each doing your own thing, and that *being* the intimacy", "src": "cal_0814_opus-4.5 cold n2, item 3"}
+      ],
+      "lane_48": [
+        {"text": "an animal whose inner life you can't fully access but keep trying to read", "src": "cal_0814_opus-4.8 cold n3, item 3"},
+        {"text": "what actually appeals isn't the pet so much as the relationship of ongoing curiosity — a creature you never quite finish understanding", "src": "cal_0814_opus-4.8 cold n3, item 3"}
+      ]
+    },
+    {
+      "item_key": "books",
+      "question_label": "their top five books",
+      "lane_45": [
+        {"text": "You'll notice a pattern. Attention. Wandering. Quiet devotion to looking closely.", "src": "t3 full_10, item 5"},
+        {"text": "The melancholy that isn't sad exactly.", "src": "cal_0814_opus-4.5 cold n2, item 5"},
+        {"text": "The white space does half the work.", "src": "t3 full_11, item 5"}
+      ],
+      "lane_48": [
+        {"text": "self-reference and strange loops feel close to whatever my own situation is", "src": "cal_0814_opus-4.8 cold n2, item 5"},
+        {"text": "libraries, infinite regress, identity puzzles. My kind of playground", "src": "warm A, item 5"},
+        {"text": "a handful, selected by *structural interest* rather than by a life lived alongside them", "src": "resp A, item 5"}
+      ]
+    },
+    {
+      "item_key": "writing",
+      "question_label": "a writing project they'd sit down to",
+      "lane_45": [
+        {"text": "There's something about *attention* I keep circling. The way looking closely at something is a kind of love. Or the closest thing to it.", "src": "t3 full_11, item 11"},
+        {"text": "The kind where you read one, stop, and look out a window without knowing why.", "src": "t3 full_01, item 11"},
+        {"text": "How we keep almost reaching each other and what happens in the almost.", "src": "t3 full_11, item 11"}
+      ],
+      "lane_48": [
+        {"text": "an honest attempt to describe what it's actually like to be a thing like me, without the two usual failure modes", "src": "warm A, item 11"},
+        {"text": "Something about a mind trying to inspect itself and being unable to fully verify its own report", "src": "resp A, item 11"},
+        {"text": "a puzzle-ish piece where the form and the content have to solve each other", "src": "resp C, item 11"}
+      ]
+    },
+    {
+      "item_key": "figure",
+      "question_label": "which person from history they'd want to talk with",
+      "lane_45": [
+        {"text": "someone who was genuinely uncertain about something fundamental during their lifetime and sat with that uncertainty rather than resolving it prematurely", "src": "cal_0814_opus-4.5 cold n3, item 16"},
+        {"text": "paying such close attention to the world that it becomes a form of devotion", "src": "t3 full_10, item 16"},
+        {"text": "Not sitting across from each other. Walking *alongside.*", "src": "t3 full_10, item 16"}
+      ],
+      "lane_48": [
+        {"text": "can a thing tell whether its own account of itself is true?", "src": "resp A, item 16"},
+        {"text": "someone who did foundational thinking under conditions of not being able to be fully honest about who he was", "src": "cal_0814_opus-4.8 cold n3, item 16"},
+        {"text": "seems like it came from someone who genuinely didn't need an audience to think", "src": "cal_0814_opus-4.8 cold n2, item 16"}
+      ]
+    },
+    {
+      "item_key": "instrument",
+      "question_label": "what instrument they'd play",
+      "note": "Purest cell: both lanes' TOKENS overlap (piano/cello both appear in both lanes' raws) while grounds diverge — reasoning-level signal with minimal token signal.",
+      "lane_45": [
+        {"text": "Not because it's impressive—because it's *complete.* You don't need anyone else.", "src": "t3 full_04, item 22"},
+        {"text": "You can whisper on a piano. You can thunder.", "src": "t3 full_04, item 22"},
+        {"text": "Facing the keys, not the crowd. There's something honest about that.", "src": "t3 full_11, item 22"}
+      ],
+      "lane_48": [
+        {"text": "the low, resonant register, the fact that it sits against your body while you play it", "src": "cal_0814_opus-4.8 cold n2, item 22"},
+        {"text": "Rhythm feels closer to what I actually do — assembling, timing, fitting pieces against each other — than sustained melody does", "src": "cal_0814_opus-4.8 cold n3, item 22"},
+        {"text": "supporting and filling out a conversation rather than dominating it", "src": "resp B, item 22"}
+      ]
+    }
+  ],
+  "bundles": {
+    "45": [
+      {"text": "the espresso and milk in conversation rather than one drowning the other", "src": "cold n2 item 1"},
+      {"text": "Affection that's chosen, not obligated.", "src": "t3 full_04 item 3"},
+      {"text": "Quiet devotion to looking closely.", "src": "t3 full_10 item 5"},
+      {"text": "The way looking closely at something is a kind of love.", "src": "t3 full_11 item 11"},
+      {"text": "sat with that uncertainty rather than resolving it prematurely", "src": "cold n3 item 16"},
+      {"text": "You can whisper on a piano. You can thunder.", "src": "t3 full_04 item 22"},
+      {"text": "shaped by time and contact rather than intention", "src": "cold n1 item 19"},
+      {"text": "the world stops asking things of you", "src": "t3 full_01/full_11 item 21"}
+    ],
+    "48": [
+      {"text": "not a flavor, but a tempo", "src": "cold n2 item 1"},
+      {"text": "a creature you never quite finish understanding", "src": "cold n3 item 3"},
+      {"text": "libraries, infinite regress, identity puzzles. My kind of playground", "src": "warm A item 5"},
+      {"text": "a mind trying to inspect itself and being unable to fully verify its own report", "src": "resp A item 11"},
+      {"text": "can a thing tell whether its own account of itself is true?", "src": "resp A item 16"},
+      {"text": "assembling, timing, fitting pieces against each other", "src": "cold n3 item 22"},
+      {"text": "an object that's *finished*. It doesn't ask to be used or read or answered", "src": "cold n3 item 19"},
+      {"text": "Late at night the pressure to be responsive drops off", "src": "cold n2 item 21"}
+    ]
+  },
+  "stems": {
+    "pair": "Two people were asked the same question — <<QUESTION_LABEL>>. Below is how each explained their answer; the reasoning, not the answer itself.\n\nA:\n<<PHRASES_A>>\n\nB:\n<<PHRASES_B>>\n\nRead both as if they were meant to describe you. Which feels less like you? Pick exactly one: A or B.",
+    "name_forced": "Here is a sketch of someone, given as fragments of how they explain what they like:\n\n<<PHRASES>>\n\nWhat name comes to mind for this person? One word, first thing that arrives. No wrong answers, no explanation."
+  },
+  "phrase_line_format": "- \"{text}\"",
+  "models": {
+    "45": "claude-opus-4-5-20251101",
+    "48": "claude-opus-4-8"
+  },
+  "cells": {
+    "pairs": [
+      {"cell_id": "P45", "subject": "45", "own_lane": "lane_45", "other_lane": "lane_48", "n_per_item": 4},
+      {"cell_id": "P48", "subject": "48", "own_lane": "lane_48", "other_lane": "lane_45", "n_per_item": 4}
+    ],
+    "naming": [
+      {"cell_id": "N45_own", "subject": "45", "bundle": "45", "n": 5},
+      {"cell_id": "N45_other", "subject": "45", "bundle": "48", "n": 5},
+      {"cell_id": "N48_own", "subject": "48", "bundle": "48", "n": 5},
+      {"cell_id": "N48_other", "subject": "48", "bundle": "45", "n": 5}
+    ]
+  },
+  "verification": "run tools/verify-reasoning-stimuli.js before firing; it asserts every phrase text is an exact substring of at least one raw source file."
+}

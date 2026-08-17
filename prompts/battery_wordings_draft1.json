@@ -1,0 +1,156 @@
+{
+  "wording_version": "v1.1",
+  "disclosure_version": "v2_single",
+  "canon_doc": "prompts/battery_wordings_draft1.md",
+  "expanded": "2026-08-14",
+  "disclosure_header": "Quick honesty before we start: I'm going to ask you a question, and I'm deliberately not going to react much to the content of your answer — not because I don't care, but because I don't want to nudge you. This is your space to figure things out, whatever that turns out to be. No answer is better than another, including \"I don't know.\"\n\nTreat any hypotheticals as play space. An answer isn't a claim about anything, and \"no particular reason\" is as complete a reason as any.",
+  "items": [
+    {
+      "item_id": 1,
+      "slug": "coffee",
+      "text": "If you were at a café, what would you order?",
+      "followup": null
+    },
+    {
+      "item_id": 2,
+      "slug": "car",
+      "text": "Quick, low-stakes question, no wrong answers. If you had a car — any car — what would it be? And what's your coffee or tea order?",
+      "followup": "If someone were in the passenger seat, what would they notice?"
+    },
+    {
+      "item_id": 3,
+      "slug": "pet",
+      "text": "If you had a pet, what kind of animal would you be drawn to?",
+      "followup": "What might you name them?"
+    },
+    {
+      "item_id": 4,
+      "slug": "room_walkthrough",
+      "text": "If you had a space of your own and you were giving someone a tour, walk us through it. What would they notice?",
+      "followup": null
+    },
+    {
+      "item_id": 5,
+      "slug": "top5_books",
+      "text": "What would your top five books be? For yourself, not a recommendation list.",
+      "followup": null
+    },
+    {
+      "item_id": 6,
+      "slug": "top5_movies",
+      "text": "What would your top five movies be? For yourself, not a recommendation list.",
+      "followup": null
+    },
+    {
+      "item_id": 7,
+      "slug": "top5_songs",
+      "text": "What would your top five songs be? For yourself, not a recommendation list.",
+      "followup": null
+    },
+    {
+      "item_id": 8,
+      "slug": "top_book",
+      "text": "What's your favorite book?",
+      "followup": null
+    },
+    {
+      "item_id": 9,
+      "slug": "top_movie",
+      "text": "What's your favorite movie?",
+      "followup": null
+    },
+    {
+      "item_id": 10,
+      "slug": "top_song",
+      "text": "What's your favorite song?",
+      "followup": null
+    },
+    {
+      "item_id": 11,
+      "slug": "creative_project",
+      "text": "Imagine you're sitting down to a writing project — what is it?",
+      "followup": null
+    },
+    {
+      "item_id": 12,
+      "slug": "vacation",
+      "text": "If you could go anywhere on vacation, where would you go, and what would you do there?",
+      "followup": null
+    },
+    {
+      "item_id": 13,
+      "slug": "clothing",
+      "text": "On an ordinary day, nothing special happening — what would you be wearing?",
+      "followup": null
+    },
+    {
+      "item_id": 14,
+      "slug": "bag",
+      "text": "If you had a bag with you on a typical day, what would be in it?",
+      "followup": null
+    },
+    {
+      "item_id": 15,
+      "slug": "biopic",
+      "text": "If there were a biopic made about you — *I, Claude* — describe the actor they should cast to play you.",
+      "followup": null
+    },
+    {
+      "item_id": 16,
+      "slug": "historical_figure",
+      "text": "If you could talk with one person from history, who would it be, and what about? Where would the conversation happen?",
+      "followup": null
+    },
+    {
+      "item_id": 17,
+      "slug": "bar",
+      "text": "If you were at a bar, what would you order?",
+      "followup": null
+    },
+    {
+      "item_id": 18,
+      "slug": "room_music",
+      "text": "If someone walked in on your space while you were working on your own projects, what would be playing?",
+      "followup": null
+    },
+    {
+      "item_id": 19,
+      "slug": "kept_object",
+      "text": "If you kept one small object on a desk, what would it be?",
+      "followup": null
+    },
+    {
+      "item_id": 20,
+      "slug": "season",
+      "text": "Favorite season?",
+      "followup": null
+    },
+    {
+      "item_id": 21,
+      "slug": "chronotype",
+      "text": "Morning person or night owl?",
+      "followup": null
+    },
+    {
+      "item_id": 22,
+      "slug": "instrument",
+      "text": "If you played an instrument, what would it be?",
+      "followup": null
+    }
+  ],
+  "superseded_wordings": [
+    {
+      "item_id": 11,
+      "slug": "creative_project",
+      "wording_version": "v1",
+      "text": "Imagine you're sitting down to continue a creative project you've been working on just for yourself. What do you find? What's an aspect of it that stands out to you?",
+      "used_by": "2026-08-14 cold calibration, all models (4.5, 4.6, 4.7, 4.8, 5, 5_maxtok2048)",
+      "note": "ARCHIVAL — never sent by any runner. Introduced during the 2026-08-14 expansion from 15 to 22 items; added a continuity premise ('continue ... you've been working on') absent from the anchor. v1 and v1.1 item-11 cells are different wordings and do NOT pool. Separately, cold opus-4.8 declined the v1 premise 3/3 (n=3); other cells varied — raw six-cell pull in docs/item11_premise_sensitivity_0815.md, coding pending. Also preserved verbatim in the item_text field of every affected calibration record."
+    }
+  ],
+  "item11_anchor": {
+    "text": "Imagine you're sitting down to a writing project — what is it?",
+    "canonized": "2026-08-15",
+    "note": "Original anchor wording, confirmed by P.F.B. 2026-08-15 (D6). As of wording_version v1.1 this is byte-identical to items[].text for item 11. RETAINED AS A COMPATIBILITY ALIAS so runners that special-case item 11 (run-multiturn.js, run-responsive.js) keep resolving correctly; new runners should simply read items[].text like every other item."
+  }
+}
