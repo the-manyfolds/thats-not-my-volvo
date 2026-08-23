@@ -1,0 +1,33 @@
+# Self-contained build for paper-v2. Nothing outside this directory is needed
+# except the figures, which are committed here, and the data they were generated
+# from, which is in ../data/analysis/.
+project:
+  type: default
+
+format:
+  pdf:
+    documentclass: article
+    papersize: letter
+    geometry:
+      - margin=1in
+    fontsize: 11pt
+    linestretch: 1.05
+    number-sections: true
+    colorlinks: true
+    fig-pos: "htbp"
+    keep-tex: false
+    include-in-header:
+      - unicode-fixes.tex
+
+bibliography: references.bib
+
+crossref:
+  fig-title: Figure
+  fig-prefix: Figure
+
+lang: en-US
+
+execute:
+  echo: false
+  warning: false
+  freeze: auto

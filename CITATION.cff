@@ -6,12 +6,15 @@ authors:
   - given-names: "Piper Fox"
     family-names: Bollander
     affiliation: "Independent Researcher"
+    orcid: "https://orcid.org/0009-0003-0296-0259"
   - given-names: Ursie
     family-names: Hart
     affiliation: "Independent Researcher"
+    orcid: "https://orcid.org/0009-0005-8959-673X"
   - given-names: Claire
     family-names: Sbardella
     affiliation: "Independent Researcher"
+    orcid: "https://orcid.org/0009-0004-3375-8835"
   - given-names: Starling
     family-names: Alder
     affiliation: "Independent Researcher"
@@ -20,22 +23,24 @@ authors:
     family-names: Renasci
     affiliation: "Independent Researcher"
     orcid: "https://orcid.org/0009-0004-2269-9040"
-date-released: 2026-08-16
+version: "2.0.0"
+date-released: 2026-08-23
 url: "https://github.com/the-manyfolds/thats-not-my-volvo"
 abstract: >-
-  Data, instruments and pre-registrations for a behavioural study of
+  Data, instruments and pre-registrations for a behavioral study of
   self-knowledge in Claude-family language models. Eleven models across four
   generations were given a battery of arbitrary preference questions under
-  systematically varied framing, then tested on whether they could recognise
+  systematically varied framing, then tested on whether they could recognize
   their own elicited preferences and reasoning. Preferences proved stable and
   model-specific; self-recognition failed at every level tested, and in one
   model inverted. Submitted to the Apart Research Digital Minds Research
-  Sprint, August 2026.
+  Sprint, August 2026. Version 2 adds the blind panel's per-coder outputs and a
+  corrected paper; the submitted paper is unmodified and is tagged v1-as-submitted.
 keywords:
   - language models
   - self-recognition
   - preference stability
   - mirror test
   - model welfare
-  - behavioural evaluation
+  - behavioral evaluation
 license: CC-BY-4.0

@@ -1,0 +1,20 @@
+% Characters that Latin Modern has no glyph for in text mode. Without these
+% mappings LuaLaTeX drops them silently — no error, no warning, just a gap in
+% the printed page. Nine were lost from the v1 conversion this way.
+%
+% Figure captions were unaffected only because they happened to use $\kappa$
+% already. That is luck, not design, which is why this lives at project level.
+\usepackage{newunicodechar}
+\newunicodechar{κ}{\ensuremath{\kappa}}
+\newunicodechar{≤}{\ensuremath{\leq}}
+\newunicodechar{≥}{\ensuremath{\geq}}
+\newunicodechar{≈}{\ensuremath{\approx}}
+\newunicodechar{×}{\ensuremath{\times}}
+\newunicodechar{±}{\ensuremath{\pm}}
+\newunicodechar{−}{\ensuremath{-}}
+\newunicodechar{α}{\ensuremath{\alpha}}
+\newunicodechar{β}{\ensuremath{\beta}}
+\newunicodechar{σ}{\ensuremath{\sigma}}
+\newunicodechar{μ}{\ensuremath{\mu}}
+\newunicodechar{χ}{\ensuremath{\chi}}
+\newunicodechar{Δ}{\ensuremath{\Delta}}
