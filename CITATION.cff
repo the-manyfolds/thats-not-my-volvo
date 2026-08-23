@@ -25,6 +25,17 @@ authors:
     orcid: "https://orcid.org/0009-0004-2269-9040"
 version: "2.0.0"
 date-released: 2026-08-23
+doi: "10.5281/zenodo.22072943"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.22072943"
+    description: "Concept DOI. Always resolves to the most recent version."
+  - type: doi
+    value: "10.5281/zenodo.22073016"
+    description: "Version DOI for 2.0.0, the corrected paper and full artifact."
+  - type: doi
+    value: "10.5281/zenodo.22072944"
+    description: "Version DOI for the artifact as submitted on 2026-08-16."
 url: "https://github.com/the-manyfolds/thats-not-my-volvo"
 abstract: >-
   Data, instruments and pre-registrations for a behavioral study of

@@ -2,6 +2,8 @@
 
 ### Stable preferences without self-recognition in language models
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22072943.svg)](https://doi.org/10.5281/zenodo.22072943)
+
 Data, instruments and pre-registrations for the paper of the same name, submitted to the
 **Apart Research Digital Minds Research Sprint**, 2026-08-16.
 
@@ -29,10 +31,15 @@ All data was collected 2026-08-14 to 2026-08-16. No pre-sprint material is inclu
 
 Two papers live here and **neither replaces the other.**
 
-| | |
-| :--- | :--- |
-| [`paper.pdf`](paper.pdf) | The submitted document. Never modified. Tagged `v1-as-submitted`. |
-| [`paper-v2.pdf`](paper-v2.pdf) | Corrected afterwards. Source in [`paper-v2/`](paper-v2/). |
+| | Tag | Version DOI |
+| :--- | :--- | :--- |
+| [`paper.pdf`](paper.pdf) — the submitted document, never modified | `v1-as-submitted` | [10.5281/zenodo.22072944](https://doi.org/10.5281/zenodo.22072944) |
+| [`paper-v2.pdf`](paper-v2.pdf) — corrected afterwards, source in [`paper-v2/`](paper-v2/) | `v2-corrected` | [10.5281/zenodo.22073016](https://doi.org/10.5281/zenodo.22073016) |
+
+Both versions are archived on Zenodo and neither can be overwritten. Cite the **concept DOI**,
+[10.5281/zenodo.22072943](https://doi.org/10.5281/zenodo.22072943), which always resolves to the
+most recent version. Cite a version DOI when you need to point at one specific state — for
+instance, the artifact as it was judged.
 
 To obtain the artifact exactly as it was judged:
 
@@ -171,7 +178,8 @@ provenance record which has been wrong once should say so.
 - **Code** (`tools/`, `paper-v2/figures.py`) — MIT, see [`LICENSE`](LICENSE).
 - **Data, prompts, documents and both papers** — [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
-Cite via [`CITATION.cff`](CITATION.cff).
+Cite via [`CITATION.cff`](CITATION.cff), or by the concept DOI
+[10.5281/zenodo.22072943](https://doi.org/10.5281/zenodo.22072943).
 
 ## A note on the subjects
 
