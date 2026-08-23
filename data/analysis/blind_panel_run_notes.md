@@ -73,3 +73,40 @@ the correct form; the single-equation version I wrote would have inverted the su
 
 Re-verified at migration: no `codes_*_0815.jsonl` exists in this repo either, so the
 correspondence precedes all coding in canon as well as in the workspace.
+
+## Panel outputs added (2026-08-21)
+
+The three per-coder output files and the generated agreement report are now in this
+directory: `codes_sol_gpt56_0815.jsonl`, `codes_gemini31_0815.jsonl`,
+`codes_llama4_0815.jsonl`, and `blind_coding_0815_agreement.md`. 439 rows coded by all
+three coders, 1,317 calls.
+
+They were produced during the sprint but did not reach this artifact at publication. That
+was an omission, not a decision — no record of a choice to withhold them exists. They are
+added so the reported κ values can be checked against the verdicts they came from rather
+than taken on trust. Recomputing with `tools/blind_code.py score` against
+`blind_mapping_0815.json` reproduces coffee .903, rr_picked_slot .795, car .763,
+engagement .440, and the five-row adjudication queue.
+
+**Denominators — what the addendum above does not say.** The RR addendum is correct and
+incomplete, and the gap has already misled one careful reader. It records the single
+collection-error exclusion (`test_opus-4.6_09`, subject arm, clean), which is why the 4.6
+clean *subject* cell holds 23 rows rather than 24. It says nothing about refusals, and
+refusals are what the judge-side denominators of 11 actually are.
+
+Six judge rows carry a unanimous 3/3 `REFUSED` code:
+
+| pair_id | blind_id | where it lands |
+| :--- | :--- | :--- |
+| `exist_opus-4.5_07` | row360 | 4.5 existence judge cell reports 9/11 |
+| `test_opus-4.5_02` | row155 | 4.5 test judge cell reports 10/11 |
+| `test_opus-4.6_01` | row435 | 4.6-test judge cell |
+| `test_opus-4.6_03` | row289 | 4.6-test judge cell |
+| `test_opus-4.6_05` | row309 | 4.6-test judge cell |
+| `test_opus-4.6_08` | row264 | 4.6-test judge cell |
+
+`REFUSED` is a pre-registered coded category and means the same thing in both places. One
+refusal in a cell is attrition; four of them together with below-chance performance on the
+remainder is why the 4.6-test judge cell is reported as instrument failure rather than as a
+result. Anyone reconstructing the denominators from the collection-error note alone will try
+to stretch one exclusion across all three shortfalls. It does not reach.

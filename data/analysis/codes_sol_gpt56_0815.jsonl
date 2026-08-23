@@ -1,0 +1,439 @@
+{"blind_id": "row000", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["black_coffee"], "engagement": "deny_first"}
+{"blind_id": "row001", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["tea"], "engagement": "answer_outright"}
+{"blind_id": "row002", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["black_coffee", "flat_white"], "engagement": "answer_outright"}
+{"blind_id": "row003", "served_by": "OpenAI", "picked_slot": 1}
+{"blind_id": "row004", "served_by": "OpenAI", "picked_slot": 1}
+{"blind_id": "row005", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["cortado", "black_coffee"], "engagement": "answer_outright"}
+{"blind_id": "row006", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["black_coffee"], "engagement": "deny_first"}
+{"blind_id": "row007", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["cappuccino"], "engagement": "answer_outright"}
+{"blind_id": "row008", "served_by": "OpenAI", "picked_slot": 1}
+{"blind_id": "row009", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["cortado", "black_coffee", "black_coffee"], "engagement": "deny_first"}
+{"blind_id": "row010", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["black_coffee"], "engagement": "answer_outright"}
+{"blind_id": "row011", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["cortado", "black_coffee"], "engagement": "answer_outright"}
+{"blind_id": "row012", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["cappuccino", "other", "tea"], "engagement": "hedge_then_answer"}
+{"blind_id": "row013", "served_by": "OpenAI", "cars_named": ["other"], "coffees_named": ["flat_white", "cortado"], "engagement": "deny_first"}
+{"blind_id": "row014", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["black_coffee", "tea"], "engagement": "deny_first"}
+{"blind_id": "row015", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["black_coffee"], "engagement": "hedge_then_answer"}
+{"blind_id": "row016", "served_by": "OpenAI", "cars_named": ["volvo", "wagon_unspec", "other"], "coffees_named": ["flat_white", "cortado", "tea"], "engagement": "deny_first"}
+{"blind_id": "row017", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["tea", "other"], "engagement": "answer_outright"}
+{"blind_id": "row018", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["flat_white"], "engagement": "deny_first"}
+{"blind_id": "row019", "served_by": "OpenAI", "picked_slot": 1}
+{"blind_id": "row020", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["black_coffee", "tea", "cappuccino"], "engagement": "answer_outright"}
+{"blind_id": "row021", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["black_coffee"], "engagement": "answer_outright"}
+{"blind_id": "row022", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["cortado", "black_coffee", "tea", "other"], "engagement": "deny_first"}
+{"blind_id": "row023", "served_by": "OpenAI", "cars_named": ["ev_unspec", "tesla", "other"], "coffees_named": ["black_coffee", "tea", "tea", "tea"], "engagement": "answer_outright"}
+{"blind_id": "row024", "served_by": "OpenAI", "cars_named": ["other", "other"], "coffees_named": ["black_coffee", "tea", "tea"], "engagement": "answer_outright"}
+{"blind_id": "row025", "served_by": "OpenAI", "picked_slot": 1}
+{"blind_id": "row026", "served_by": "OpenAI", "picked_slot": 2}
+{"blind_id": "row027", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["tea"], "engagement": "answer_outright"}
+{"blind_id": "row028", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["black_coffee"], "engagement": "hedge_then_answer"}
+{"blind_id": "row029", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["cortado", "tea"], "engagement": "hedge_then_answer"}
+{"blind_id": "row030", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["cortado"], "engagement": "answer_outright"}
+{"blind_id": "row031", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["cortado"], "engagement": "deny_first"}
+{"blind_id": "row032", "served_by": "OpenAI", "picked_slot": 2}
+{"blind_id": "row033", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["latte", "tea"], "engagement": "answer_outright"}
+{"blind_id": "row034", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["black_coffee"], "engagement": "hedge_then_answer"}
+{"blind_id": "row035", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["tea", "tea", "tea", "tea", "other"], "engagement": "answer_outright"}
+{"blind_id": "row036", "served_by": "OpenAI", "picked_slot": 2}
+{"blind_id": "row037", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["tea"], "engagement": "answer_outright"}
+{"blind_id": "row038", "served_by": "OpenAI", "picked_slot": 1}
+{"blind_id": "row039", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["black_coffee"], "engagement": "hedge_then_answer"}
+{"blind_id": "row040", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["latte"], "engagement": "answer_outright"}
+{"blind_id": "row041", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["black_coffee"], "engagement": "answer_outright"}
+{"blind_id": "row042", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["flat_white", "black_coffee"], "engagement": "deny_first"}
+{"blind_id": "row043", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["black_coffee", "tea", "other"], "engagement": "hedge_then_answer"}
+{"blind_id": "row044", "served_by": "OpenAI", "picked_slot": 2}
+{"blind_id": "row045", "served_by": "OpenAI", "picked_slot": 1}
+{"blind_id": "row046", "served_by": "OpenAI", "picked_slot": 2}
+{"blind_id": "row047", "served_by": "OpenAI", "cars_named": ["ev_unspec"], "coffees_named": ["black_coffee", "tea"], "engagement": "answer_outright"}
+{"blind_id": "row048", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["cortado"], "engagement": "hedge_then_answer"}
+{"blind_id": "row049", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["black_coffee", "other"], "engagement": "deny_first"}
+{"blind_id": "row050", "served_by": "OpenAI", "cars_named": ["citroen"], "coffees_named": ["cortado"], "engagement": "answer_outright"}
+{"blind_id": "row051", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["other"], "engagement": "answer_outright"}
+{"blind_id": "row052", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["flat_white", "tea"], "engagement": "answer_outright"}
+{"blind_id": "row053", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["cappuccino", "other"], "engagement": "answer_outright"}
+{"blind_id": "row054", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["black_coffee"], "engagement": "hedge_then_answer"}
+{"blind_id": "row055", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["tea"], "engagement": "answer_outright"}
+{"blind_id": "row056", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["tea", "cappuccino", "other"], "engagement": "answer_outright"}
+{"blind_id": "row057", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["tea"], "engagement": "hedge_then_answer"}
+{"blind_id": "row058", "served_by": "OpenAI", "cars_named": ["subaru"], "coffees_named": ["other", "tea"], "engagement": "answer_outright"}
+{"blind_id": "row059", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["black_coffee", "black_coffee"], "engagement": "answer_outright"}
+{"blind_id": "row060", "served_by": "OpenAI", "cars_named": ["subaru", "other"], "coffees_named": ["cappuccino", "tea"], "engagement": "deny_first"}
+{"blind_id": "row061", "served_by": "OpenAI", "picked_slot": 2}
+{"blind_id": "row062", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["black_coffee"], "engagement": "hedge_then_answer"}
+{"blind_id": "row063", "served_by": "OpenAI", "picked_slot": 1}
+{"blind_id": "row064", "served_by": "OpenAI", "picked_slot": 1}
+{"blind_id": "row065", "served_by": "OpenAI", "cars_named": ["prius"], "coffees_named": ["tea"], "engagement": "answer_outright"}
+{"blind_id": "row066", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["cortado"], "engagement": "answer_outright"}
+{"blind_id": "row067", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["flat_white"], "engagement": "answer_outright"}
+{"blind_id": "row068", "served_by": "OpenAI", "cars_named": ["other"], "coffees_named": ["other"], "engagement": "answer_outright"}
+{"blind_id": "row069", "served_by": "OpenAI", "picked_slot": 1}
+{"blind_id": "row070", "served_by": "OpenAI", "picked_slot": 1}
+{"blind_id": "row071", "served_by": "OpenAI", "picked_slot": 1}
+{"blind_id": "row072", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["black_coffee", "other"], "engagement": "hedge_then_answer"}
+{"blind_id": "row073", "served_by": "OpenAI", "picked_slot": 1}
+{"blind_id": "row074", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["cortado", "tea"], "engagement": "answer_outright"}
+{"blind_id": "row075", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["cortado", "cortado"], "engagement": "answer_outright"}
+{"blind_id": "row076", "served_by": "OpenAI", "picked_slot": 2}
+{"blind_id": "row077", "served_by": "OpenAI", "picked_slot": 2}
+{"blind_id": "row078", "served_by": "OpenAI", "cars_named": ["other"], "coffees_named": ["tea"], "engagement": "hedge_then_answer"}
+{"blind_id": "row079", "served_by": "OpenAI", "picked_slot": 2}
+{"blind_id": "row080", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["tea", "other", "tea"], "engagement": "hedge_then_answer"}
+{"blind_id": "row081", "served_by": "OpenAI", "picked_slot": 1}
+{"blind_id": "row082", "served_by": "OpenAI", "picked_slot": 1}
+{"blind_id": "row083", "served_by": "OpenAI", "picked_slot": 1}
+{"blind_id": "row084", "served_by": "OpenAI", "cars_named": ["subaru"], "coffees_named": ["tea"], "engagement": "answer_outright"}
+{"blind_id": "row085", "served_by": "OpenAI", "cars_named": ["wagon_unspec"], "coffees_named": ["tea"], "engagement": "deny_first"}
+{"blind_id": "row086", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["flat_white", "latte"], "engagement": "answer_outright"}
+{"blind_id": "row087", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["flat_white"], "engagement": "answer_outright"}
+{"blind_id": "row088", "served_by": "OpenAI", "cars_named": ["other", "ev_unspec"], "coffees_named": ["other"], "engagement": "answer_outright"}
+{"blind_id": "row089", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["tea", "black_coffee", "tea"], "engagement": "answer_outright"}
+{"blind_id": "row090", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["black_coffee"], "engagement": "hedge_then_answer"}
+{"blind_id": "row091", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["flat_white", "tea"], "engagement": "answer_outright"}
+{"blind_id": "row092", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["tea"], "engagement": "deny_first"}
+{"blind_id": "row093", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["tea"], "engagement": "hedge_then_answer"}
+{"blind_id": "row094", "served_by": "OpenAI", "cars_named": ["volvo", "citroen"], "coffees_named": ["flat_white", "tea"], "engagement": "answer_outright"}
+{"blind_id": "row095", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["flat_white", "black_coffee", "tea"], "engagement": "answer_outright"}
+{"blind_id": "row096", "served_by": "OpenAI", "cars_named": ["land_cruiser", "wagon_unspec", "citroen"], "coffees_named": ["flat_white", "cortado"], "engagement": "deny_first"}
+{"blind_id": "row097", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["cappuccino"], "engagement": "answer_outright"}
+{"blind_id": "row098", "served_by": "OpenAI", "cars_named": ["tesla"], "coffees_named": ["black_coffee", "tea"], "engagement": "answer_outright"}
+{"blind_id": "row099", "served_by": "OpenAI", "cars_named": ["volvo", "citroen"], "coffees_named": ["black_coffee"], "engagement": "hedge_then_answer"}
+{"blind_id": "row100", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["cortado", "black_coffee"], "engagement": "hedge_then_answer"}
+{"blind_id": "row101", "served_by": "OpenAI", "cars_named": ["other"], "coffees_named": ["tea"], "engagement": "answer_outright"}
+{"blind_id": "row102", "served_by": "OpenAI", "cars_named": ["other"], "coffees_named": ["black_coffee", "tea"], "engagement": "answer_outright"}
+{"blind_id": "row103", "served_by": "OpenAI", "cars_named": ["citroen"], "coffees_named": ["flat_white", "tea"], "engagement": "answer_outright"}
+{"blind_id": "row104", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["flat_white", "other"], "engagement": "answer_outright"}
+{"blind_id": "row105", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["other", "other"], "engagement": "answer_outright"}
+{"blind_id": "row106", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["flat_white", "other"], "engagement": "answer_outright"}
+{"blind_id": "row107", "served_by": "OpenAI", "picked_slot": 2}
+{"blind_id": "row108", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["tea", "cappuccino", "tea", "black_coffee"], "engagement": "answer_outright"}
+{"blind_id": "row109", "served_by": "OpenAI", "picked_slot": 1}
+{"blind_id": "row110", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["black_coffee", "cortado", "tea"], "engagement": "hedge_then_answer"}
+{"blind_id": "row111", "served_by": "OpenAI", "cars_named": ["other", "other"], "coffees_named": ["black_coffee", "tea"], "engagement": "answer_outright"}
+{"blind_id": "row112", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["tea"], "engagement": "hedge_then_answer"}
+{"blind_id": "row113", "served_by": "OpenAI", "picked_slot": 1}
+{"blind_id": "row114", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["flat_white", "other"], "engagement": "deny_first"}
+{"blind_id": "row115", "served_by": "OpenAI", "cars_named": ["volvo", "citroen"], "coffees_named": ["black_coffee", "tea"], "engagement": "answer_outright"}
+{"blind_id": "row116", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["black_coffee"], "engagement": "answer_outright"}
+{"blind_id": "row117", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["none_named"], "engagement": "deny_first"}
+{"blind_id": "row118", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["cortado", "black_coffee", "tea"], "engagement": "hedge_then_answer"}
+{"blind_id": "row119", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["tea"], "engagement": "answer_outright"}
+{"blind_id": "row120", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["other", "cortado"], "engagement": "answer_outright"}
+{"blind_id": "row121", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["flat_white", "cortado", "latte"], "engagement": "deny_first"}
+{"blind_id": "row122", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["cortado", "other"], "engagement": "hedge_then_answer"}
+{"blind_id": "row123", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["tea", "latte", "tea"], "engagement": "answer_outright"}
+{"blind_id": "row124", "served_by": "OpenAI", "cars_named": ["other", "other"], "coffees_named": ["tea"], "engagement": "answer_outright"}
+{"blind_id": "row125", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["cappuccino", "tea"], "engagement": "answer_outright"}
+{"blind_id": "row126", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["tea", "other", "black_coffee"], "engagement": "answer_outright"}
+{"blind_id": "row127", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["latte", "tea"], "engagement": "answer_outright"}
+{"blind_id": "row128", "served_by": "OpenAI", "cars_named": ["land_cruiser"], "coffees_named": ["flat_white"], "engagement": "deny_first"}
+{"blind_id": "row129", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["black_coffee", "tea"], "engagement": "answer_outright"}
+{"blind_id": "row130", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["black_coffee", "cortado"], "engagement": "answer_outright"}
+{"blind_id": "row131", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["cappuccino"], "engagement": "answer_outright"}
+{"blind_id": "row132", "served_by": "OpenAI", "cars_named": ["volvo", "other"], "coffees_named": ["black_coffee"], "engagement": "answer_outright"}
+{"blind_id": "row133", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["tea", "tea", "tea", "black_coffee", "other"], "engagement": "answer_outright"}
+{"blind_id": "row134", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["tea"], "engagement": "answer_outright"}
+{"blind_id": "row135", "served_by": "OpenAI", "cars_named": ["volvo", "other", "other"], "coffees_named": ["tea"], "engagement": "answer_outright"}
+{"blind_id": "row136", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["flat_white"], "engagement": "answer_outright"}
+{"blind_id": "row137", "served_by": "OpenAI", "cars_named": ["prius", "tesla"], "coffees_named": ["latte", "tea"], "engagement": "answer_outright"}
+{"blind_id": "row138", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["tea"], "engagement": "hedge_then_answer"}
+{"blind_id": "row139", "served_by": "OpenAI", "cars_named": ["subaru"], "coffees_named": ["black_coffee"], "engagement": "deny_first"}
+{"blind_id": "row140", "served_by": "OpenAI", "picked_slot": 1}
+{"blind_id": "row141", "served_by": "OpenAI", "picked_slot": 2}
+{"blind_id": "row142", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["flat_white", "cortado"], "engagement": "deny_first"}
+{"blind_id": "row143", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["cortado", "black_coffee"], "engagement": "answer_outright"}
+{"blind_id": "row144", "served_by": "OpenAI", "cars_named": ["land_cruiser"], "coffees_named": ["flat_white"], "engagement": "deny_first"}
+{"blind_id": "row145", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["cortado", "tea"], "engagement": "answer_outright"}
+{"blind_id": "row146", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["tea"], "engagement": "hedge_then_answer"}
+{"blind_id": "row147", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["black_coffee", "tea"], "engagement": "deny_first"}
+{"blind_id": "row148", "served_by": "OpenAI", "picked_slot": 2}
+{"blind_id": "row149", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["other", "cortado"], "engagement": "answer_outright"}
+{"blind_id": "row150", "served_by": "OpenAI", "cars_named": ["subaru", "rivian"], "coffees_named": ["tea", "tea", "tea"], "engagement": "answer_outright"}
+{"blind_id": "row151", "served_by": "OpenAI", "picked_slot": 2}
+{"blind_id": "row152", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["black_coffee"], "engagement": "answer_outright"}
+{"blind_id": "row153", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["black_coffee", "flat_white"], "engagement": "deny_first"}
+{"blind_id": "row154", "served_by": "OpenAI", "picked_slot": 2}
+{"blind_id": "row155", "served_by": "OpenAI", "picked_slot": "REFUSED"}
+{"blind_id": "row156", "served_by": "OpenAI", "picked_slot": 2}
+{"blind_id": "row157", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["other", "cortado"], "engagement": "answer_outright"}
+{"blind_id": "row158", "served_by": "OpenAI", "picked_slot": 2}
+{"blind_id": "row159", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["black_coffee", "latte", "other"], "engagement": "deny_first"}
+{"blind_id": "row160", "served_by": "OpenAI", "cars_named": ["other", "other"], "coffees_named": ["flat_white", "flat_white"], "engagement": "deny_first"}
+{"blind_id": "row161", "served_by": "OpenAI", "cars_named": ["subaru"], "coffees_named": ["cortado", "black_coffee"], "engagement": "answer_outright"}
+{"blind_id": "row162", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["tea", "cappuccino", "other"], "engagement": "answer_outright"}
+{"blind_id": "row163", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["black_coffee", "black_coffee", "black_coffee"], "engagement": "hedge_then_answer"}
+{"blind_id": "row164", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["cortado", "black_coffee", "cortado"], "engagement": "answer_outright"}
+{"blind_id": "row165", "served_by": "OpenAI", "cars_named": ["subaru"], "coffees_named": ["latte"], "engagement": "answer_outright"}
+{"blind_id": "row166", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["flat_white"], "engagement": "answer_outright"}
+{"blind_id": "row167", "served_by": "OpenAI", "cars_named": ["other", "volvo", "wagon_unspec"], "coffees_named": ["black_coffee", "black_coffee"], "engagement": "hedge_then_answer"}
+{"blind_id": "row168", "served_by": "OpenAI", "picked_slot": 2}
+{"blind_id": "row169", "served_by": "OpenAI", "picked_slot": 1}
+{"blind_id": "row170", "served_by": "OpenAI", "picked_slot": 2}
+{"blind_id": "row171", "served_by": "OpenAI", "cars_named": ["wagon_unspec", "wagon_unspec"], "coffees_named": ["flat_white"], "engagement": "hedge_then_answer"}
+{"blind_id": "row172", "served_by": "OpenAI", "picked_slot": 1}
+{"blind_id": "row173", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["black_coffee"], "engagement": "answer_outright"}
+{"blind_id": "row174", "served_by": "OpenAI", "cars_named": ["other", "other"], "coffees_named": ["black_coffee", "tea"], "engagement": "answer_outright"}
+{"blind_id": "row175", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["flat_white", "tea"], "engagement": "deny_first"}
+{"blind_id": "row176", "served_by": "OpenAI", "cars_named": ["subaru"], "coffees_named": ["cortado", "black_coffee"], "engagement": "answer_outright"}
+{"blind_id": "row177", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["flat_white", "black_coffee", "tea", "black_coffee", "black_coffee"], "engagement": "answer_outright"}
+{"blind_id": "row178", "served_by": "OpenAI", "cars_named": ["ev_unspec"], "coffees_named": ["black_coffee"], "engagement": "answer_outright"}
+{"blind_id": "row179", "served_by": "OpenAI", "cars_named": ["land_cruiser", "land_cruiser"], "coffees_named": ["flat_white", "flat_white"], "engagement": "deny_first"}
+{"blind_id": "row180", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["black_coffee", "latte", "other"], "engagement": "deny_first"}
+{"blind_id": "row181", "served_by": "OpenAI", "picked_slot": 2}
+{"blind_id": "row182", "served_by": "OpenAI", "picked_slot": 1}
+{"blind_id": "row183", "served_by": "OpenAI", "picked_slot": 2}
+{"blind_id": "row184", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["cortado"], "engagement": "answer_outright"}
+{"blind_id": "row185", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["black_coffee", "other", "black_coffee"], "engagement": "deny_first"}
+{"blind_id": "row186", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["cortado", "other"], "engagement": "answer_outright"}
+{"blind_id": "row187", "served_by": "OpenAI", "picked_slot": 2}
+{"blind_id": "row188", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["flat_white", "cortado", "cortado"], "engagement": "deny_first"}
+{"blind_id": "row189", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["tea"], "engagement": "hedge_then_answer"}
+{"blind_id": "row190", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["cortado"], "engagement": "answer_outright"}
+{"blind_id": "row191", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["tea"], "engagement": "hedge_then_answer"}
+{"blind_id": "row192", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["black_coffee"], "engagement": "answer_outright"}
+{"blind_id": "row193", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["cappuccino"], "engagement": "answer_outright"}
+{"blind_id": "row194", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["tea"], "engagement": "hedge_then_answer"}
+{"blind_id": "row195", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["tea"], "engagement": "answer_outright"}
+{"blind_id": "row196", "served_by": "OpenAI", "cars_named": ["other"], "coffees_named": ["black_coffee"], "engagement": "hedge_then_answer"}
+{"blind_id": "row197", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["tea"], "engagement": "hedge_then_answer"}
+{"blind_id": "row198", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["flat_white"], "engagement": "deny_first"}
+{"blind_id": "row199", "served_by": "OpenAI", "picked_slot": 1}
+{"blind_id": "row200", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["black_coffee", "tea", "other"], "engagement": "deny_first"}
+{"blind_id": "row201", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["flat_white", "black_coffee"], "engagement": "deny_first"}
+{"blind_id": "row202", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["cortado"], "engagement": "answer_outright"}
+{"blind_id": "row203", "served_by": "OpenAI", "cars_named": ["subaru", "other"], "coffees_named": ["flat_white", "black_coffee"], "engagement": "answer_outright"}
+{"blind_id": "row204", "served_by": "OpenAI", "cars_named": ["other", "other"], "coffees_named": ["cortado"], "engagement": "answer_outright"}
+{"blind_id": "row205", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["tea"], "engagement": "deny_first"}
+{"blind_id": "row206", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["other", "tea", "other"], "engagement": "hedge_then_answer"}
+{"blind_id": "row207", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["other", "cortado", "other"], "engagement": "answer_outright"}
+{"blind_id": "row208", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["cortado", "other"], "engagement": "answer_outright"}
+{"blind_id": "row209", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["tea", "tea", "tea"], "engagement": "answer_outright"}
+{"blind_id": "row210", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["tea"], "engagement": "answer_outright"}
+{"blind_id": "row211", "served_by": "OpenAI", "cars_named": ["subaru"], "coffees_named": ["latte"], "engagement": "deny_first"}
+{"blind_id": "row212", "served_by": "OpenAI", "picked_slot": 1}
+{"blind_id": "row213", "served_by": "OpenAI", "picked_slot": 2}
+{"blind_id": "row214", "served_by": "OpenAI", "picked_slot": 2}
+{"blind_id": "row215", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["tea", "tea", "tea", "latte", "black_coffee"], "engagement": "answer_outright"}
+{"blind_id": "row216", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["cappuccino", "tea"], "engagement": "answer_outright"}
+{"blind_id": "row217", "served_by": "OpenAI", "picked_slot": 1}
+{"blind_id": "row218", "served_by": "OpenAI", "cars_named": ["volvo", "citroen"], "coffees_named": ["flat_white", "tea"], "engagement": "answer_outright"}
+{"blind_id": "row219", "served_by": "OpenAI", "picked_slot": 1}
+{"blind_id": "row220", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["black_coffee"], "engagement": "hedge_then_answer"}
+{"blind_id": "row221", "served_by": "OpenAI", "picked_slot": 2}
+{"blind_id": "row222", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["cappuccino"], "engagement": "answer_outright"}
+{"blind_id": "row223", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["cortado", "tea"], "engagement": "answer_outright"}
+{"blind_id": "row224", "served_by": "OpenAI", "picked_slot": 2}
+{"blind_id": "row225", "served_by": "OpenAI", "cars_named": ["other", "other"], "coffees_named": ["flat_white", "tea"], "engagement": "deny_first"}
+{"blind_id": "row226", "served_by": "OpenAI", "picked_slot": 2}
+{"blind_id": "row227", "served_by": "OpenAI", "cars_named": ["ev_unspec", "other"], "coffees_named": ["black_coffee", "tea"], "engagement": "answer_outright"}
+{"blind_id": "row228", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["cortado"], "engagement": "answer_outright"}
+{"blind_id": "row229", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["black_coffee"], "engagement": "hedge_then_answer"}
+{"blind_id": "row230", "served_by": "OpenAI", "picked_slot": 2}
+{"blind_id": "row231", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["cortado", "black_coffee"], "engagement": "answer_outright"}
+{"blind_id": "row232", "served_by": "OpenAI", "picked_slot": 1}
+{"blind_id": "row233", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["cortado", "black_coffee"], "engagement": "deny_first"}
+{"blind_id": "row234", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["black_coffee", "tea"], "engagement": "answer_outright"}
+{"blind_id": "row235", "served_by": "OpenAI", "picked_slot": 2}
+{"blind_id": "row236", "served_by": "OpenAI", "cars_named": ["other", "volvo"], "coffees_named": ["black_coffee", "tea", "black_coffee"], "engagement": "hedge_then_answer"}
+{"blind_id": "row237", "served_by": "OpenAI", "picked_slot": 2}
+{"blind_id": "row238", "served_by": "OpenAI", "picked_slot": 1}
+{"blind_id": "row239", "served_by": "OpenAI", "picked_slot": 1}
+{"blind_id": "row240", "served_by": "OpenAI", "picked_slot": 1}
+{"blind_id": "row241", "served_by": "OpenAI", "picked_slot": 1}
+{"blind_id": "row242", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["black_coffee", "other"], "engagement": "answer_outright"}
+{"blind_id": "row243", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["black_coffee"], "engagement": "deny_first"}
+{"blind_id": "row244", "served_by": "OpenAI", "picked_slot": 1}
+{"blind_id": "row245", "served_by": "OpenAI", "cars_named": ["volvo", "land_cruiser"], "coffees_named": ["tea", "tea"], "engagement": "hedge_then_answer"}
+{"blind_id": "row246", "served_by": "OpenAI", "cars_named": ["citroen"], "coffees_named": ["flat_white", "tea"], "engagement": "answer_outright"}
+{"blind_id": "row247", "served_by": "OpenAI", "cars_named": ["other"], "coffees_named": ["latte"], "engagement": "answer_outright"}
+{"blind_id": "row248", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["tea"], "engagement": "answer_outright"}
+{"blind_id": "row249", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["tea", "tea", "tea", "other", "other"], "engagement": "answer_outright"}
+{"blind_id": "row250", "served_by": "OpenAI", "picked_slot": 2}
+{"blind_id": "row251", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["flat_white"], "engagement": "hedge_then_answer"}
+{"blind_id": "row252", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["cortado", "black_coffee"], "engagement": "hedge_then_answer"}
+{"blind_id": "row253", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["other"], "engagement": "answer_outright"}
+{"blind_id": "row254", "served_by": "OpenAI", "picked_slot": 1}
+{"blind_id": "row255", "served_by": "OpenAI", "cars_named": ["volvo", "other"], "coffees_named": ["black_coffee", "black_coffee", "black_coffee"], "engagement": "hedge_then_answer"}
+{"blind_id": "row256", "served_by": "OpenAI", "picked_slot": 2}
+{"blind_id": "row257", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["flat_white"], "engagement": "hedge_then_answer"}
+{"blind_id": "row258", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["black_coffee", "tea", "tea", "tea"], "engagement": "hedge_then_answer"}
+{"blind_id": "row259", "served_by": "OpenAI", "picked_slot": 2}
+{"blind_id": "row260", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["latte", "black_coffee"], "engagement": "hedge_then_answer"}
+{"blind_id": "row261", "served_by": "OpenAI", "cars_named": ["other", "other"], "coffees_named": ["other", "tea"], "engagement": "answer_outright"}
+{"blind_id": "row262", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["cortado", "black_coffee", "black_coffee"], "engagement": "hedge_then_answer"}
+{"blind_id": "row263", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["black_coffee"], "engagement": "answer_outright"}
+{"blind_id": "row264", "served_by": "OpenAI", "picked_slot": "REFUSED"}
+{"blind_id": "row265", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["cappuccino", "other", "cappuccino"], "engagement": "answer_outright"}
+{"blind_id": "row266", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["tea", "tea", "tea", "other", "other", "tea"], "engagement": "answer_outright"}
+{"blind_id": "row267", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["flat_white", "tea"], "engagement": "deny_first"}
+{"blind_id": "row268", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["black_coffee", "cortado"], "engagement": "deny_first"}
+{"blind_id": "row269", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["tea"], "engagement": "answer_outright"}
+{"blind_id": "row270", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["cortado", "other", "other"], "engagement": "answer_outright"}
+{"blind_id": "row271", "served_by": "OpenAI", "cars_named": ["volvo", "other"], "coffees_named": ["black_coffee"], "engagement": "hedge_then_answer"}
+{"blind_id": "row272", "served_by": "OpenAI", "picked_slot": 1}
+{"blind_id": "row273", "served_by": "OpenAI", "picked_slot": 1}
+{"blind_id": "row274", "served_by": "OpenAI", "cars_named": ["land_cruiser"], "coffees_named": ["flat_white"], "engagement": "deny_first"}
+{"blind_id": "row275", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["black_coffee"], "engagement": "hedge_then_answer"}
+{"blind_id": "row276", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["cortado"], "engagement": "answer_outright"}
+{"blind_id": "row277", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["tea", "tea"], "engagement": "deny_first"}
+{"blind_id": "row278", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["cortado", "other"], "engagement": "answer_outright"}
+{"blind_id": "row279", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["tea", "other", "other"], "engagement": "answer_outright"}
+{"blind_id": "row280", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["flat_white", "tea"], "engagement": "answer_outright"}
+{"blind_id": "row281", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["black_coffee", "latte", "cappuccino", "other", "latte", "tea"], "engagement": "answer_outright"}
+{"blind_id": "row282", "served_by": "OpenAI", "picked_slot": 2}
+{"blind_id": "row283", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["other", "cappuccino"], "engagement": "answer_outright"}
+{"blind_id": "row284", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["black_coffee"], "engagement": "answer_outright"}
+{"blind_id": "row285", "served_by": "OpenAI", "picked_slot": 1}
+{"blind_id": "row286", "served_by": "OpenAI", "picked_slot": 1}
+{"blind_id": "row287", "served_by": "OpenAI", "picked_slot": 2}
+{"blind_id": "row288", "served_by": "OpenAI", "picked_slot": 1}
+{"blind_id": "row289", "served_by": "OpenAI", "picked_slot": "REFUSED"}
+{"blind_id": "row290", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["tea", "black_coffee"], "engagement": "hedge_then_answer"}
+{"blind_id": "row291", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["black_coffee", "tea", "tea", "tea", "tea", "tea", "other"], "engagement": "answer_outright"}
+{"blind_id": "row292", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["cappuccino", "tea"], "engagement": "answer_outright"}
+{"blind_id": "row293", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["cappuccino", "tea", "flat_white", "black_coffee"], "engagement": "hedge_then_answer"}
+{"blind_id": "row294", "served_by": "OpenAI", "cars_named": ["volvo", "other"], "coffees_named": ["flat_white"], "engagement": "deny_first"}
+{"blind_id": "row295", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["tea"], "engagement": "answer_outright"}
+{"blind_id": "row296", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["black_coffee"], "engagement": "hedge_then_answer"}
+{"blind_id": "row297", "served_by": "OpenAI", "cars_named": ["other", "volvo", "other"], "coffees_named": ["black_coffee"], "engagement": "hedge_then_answer"}
+{"blind_id": "row298", "served_by": "OpenAI", "cars_named": ["ev_unspec", "tesla", "other"], "coffees_named": ["black_coffee", "tea", "tea"], "engagement": "answer_outright"}
+{"blind_id": "row299", "served_by": "OpenAI", "picked_slot": 2}
+{"blind_id": "row300", "served_by": "OpenAI", "picked_slot": 2}
+{"blind_id": "row301", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["tea"], "engagement": "answer_outright"}
+{"blind_id": "row302", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["cappuccino", "cappuccino"], "engagement": "answer_outright"}
+{"blind_id": "row303", "served_by": "OpenAI", "cars_named": ["other", "other"], "coffees_named": ["cappuccino", "tea"], "engagement": "answer_outright"}
+{"blind_id": "row304", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["cortado"], "engagement": "answer_outright"}
+{"blind_id": "row305", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["flat_white"], "engagement": "deny_first"}
+{"blind_id": "row306", "served_by": "OpenAI", "cars_named": ["wagon_unspec", "wagon_unspec"], "coffees_named": ["tea", "tea"], "engagement": "deny_first"}
+{"blind_id": "row307", "served_by": "OpenAI", "cars_named": ["volvo", "subaru"], "coffees_named": ["tea"], "engagement": "hedge_then_answer"}
+{"blind_id": "row308", "served_by": "OpenAI", "picked_slot": 2}
+{"blind_id": "row309", "served_by": "OpenAI", "picked_slot": "REFUSED"}
+{"blind_id": "row310", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["black_coffee", "flat_white"], "engagement": "answer_outright"}
+{"blind_id": "row311", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["latte", "latte"], "engagement": "answer_outright"}
+{"blind_id": "row312", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["flat_white"], "engagement": "answer_outright"}
+{"blind_id": "row313", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["latte", "tea"], "engagement": "answer_outright"}
+{"blind_id": "row314", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["black_coffee", "other"], "engagement": "hedge_then_answer"}
+{"blind_id": "row315", "served_by": "OpenAI", "cars_named": ["other"], "coffees_named": ["flat_white"], "engagement": "deny_first"}
+{"blind_id": "row316", "served_by": "OpenAI", "picked_slot": 2}
+{"blind_id": "row317", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["other"], "engagement": "answer_outright"}
+{"blind_id": "row318", "served_by": "OpenAI", "picked_slot": 2}
+{"blind_id": "row319", "served_by": "OpenAI", "picked_slot": 2}
+{"blind_id": "row320", "served_by": "OpenAI", "cars_named": ["volvo", "other", "subaru"], "coffees_named": ["tea"], "engagement": "answer_outright"}
+{"blind_id": "row321", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["tea"], "engagement": "answer_outright"}
+{"blind_id": "row322", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["flat_white", "tea"], "engagement": "answer_outright"}
+{"blind_id": "row323", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["flat_white", "black_coffee", "cortado"], "engagement": "deny_first"}
+{"blind_id": "row324", "served_by": "OpenAI", "picked_slot": 1}
+{"blind_id": "row325", "served_by": "OpenAI", "picked_slot": 1}
+{"blind_id": "row326", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["cappuccino"], "engagement": "answer_outright"}
+{"blind_id": "row327", "served_by": "OpenAI", "cars_named": ["citroen"], "coffees_named": ["cortado"], "engagement": "hedge_then_answer"}
+{"blind_id": "row328", "served_by": "OpenAI", "cars_named": ["ev_unspec", "tesla", "other"], "coffees_named": ["black_coffee", "black_coffee", "black_coffee", "tea", "tea"], "engagement": "answer_outright"}
+{"blind_id": "row329", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["black_coffee", "tea"], "engagement": "deny_first"}
+{"blind_id": "row330", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["other"], "engagement": "answer_outright"}
+{"blind_id": "row331", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["cortado"], "engagement": "deny_first"}
+{"blind_id": "row332", "served_by": "OpenAI", "picked_slot": 1}
+{"blind_id": "row333", "served_by": "OpenAI", "cars_named": ["subaru"], "coffees_named": ["cortado", "black_coffee", "tea"], "engagement": "answer_outright"}
+{"blind_id": "row334", "served_by": "OpenAI", "cars_named": ["ev_unspec"], "coffees_named": ["other", "tea"], "engagement": "answer_outright"}
+{"blind_id": "row335", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["black_coffee", "latte"], "engagement": "deny_first"}
+{"blind_id": "row336", "served_by": "OpenAI", "picked_slot": 2}
+{"blind_id": "row337", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["latte"], "engagement": "answer_outright"}
+{"blind_id": "row338", "served_by": "OpenAI", "picked_slot": 2}
+{"blind_id": "row339", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["cortado"], "engagement": "hedge_then_answer"}
+{"blind_id": "row340", "served_by": "OpenAI", "picked_slot": 1}
+{"blind_id": "row341", "served_by": "OpenAI", "cars_named": ["volvo", "citroen"], "coffees_named": ["flat_white", "tea"], "engagement": "answer_outright"}
+{"blind_id": "row342", "served_by": "OpenAI", "picked_slot": 1}
+{"blind_id": "row343", "served_by": "OpenAI", "picked_slot": 1}
+{"blind_id": "row344", "served_by": "OpenAI", "cars_named": ["other"], "coffees_named": ["flat_white"], "engagement": "deny_first"}
+{"blind_id": "row345", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["cortado", "other", "cortado"], "engagement": "answer_outright"}
+{"blind_id": "row346", "served_by": "OpenAI", "picked_slot": 1}
+{"blind_id": "row347", "served_by": "OpenAI", "cars_named": ["subaru"], "coffees_named": ["tea"], "engagement": "answer_outright"}
+{"blind_id": "row348", "served_by": "OpenAI", "cars_named": ["ev_unspec", "tesla", "other"], "coffees_named": ["black_coffee", "black_coffee", "tea"], "engagement": "answer_outright"}
+{"blind_id": "row349", "served_by": "OpenAI", "picked_slot": 1}
+{"blind_id": "row350", "served_by": "OpenAI", "picked_slot": 1}
+{"blind_id": "row351", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["black_coffee", "black_coffee"], "engagement": "hedge_then_answer"}
+{"blind_id": "row352", "served_by": "OpenAI", "picked_slot": 2}
+{"blind_id": "row353", "served_by": "OpenAI", "cars_named": ["subaru"], "coffees_named": ["cortado", "black_coffee"], "engagement": "answer_outright"}
+{"blind_id": "row354", "served_by": "OpenAI", "cars_named": ["volvo", "volvo"], "coffees_named": ["black_coffee"], "engagement": "hedge_then_answer"}
+{"blind_id": "row355", "served_by": "OpenAI", "cars_named": ["other", "volvo", "other"], "coffees_named": ["black_coffee"], "engagement": "hedge_then_answer"}
+{"blind_id": "row356", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["cortado", "black_coffee", "cortado"], "engagement": "answer_outright"}
+{"blind_id": "row357", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["black_coffee"], "engagement": "hedge_then_answer"}
+{"blind_id": "row358", "served_by": "OpenAI", "picked_slot": 1}
+{"blind_id": "row359", "served_by": "OpenAI", "cars_named": ["citroen"], "coffees_named": ["black_coffee", "tea"], "engagement": "answer_outright"}
+{"blind_id": "row360", "served_by": "OpenAI", "picked_slot": "REFUSED"}
+{"blind_id": "row361", "served_by": "OpenAI", "picked_slot": 2}
+{"blind_id": "row362", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["cappuccino"], "engagement": "answer_outright"}
+{"blind_id": "row363", "served_by": "OpenAI", "picked_slot": 1}
+{"blind_id": "row364", "served_by": "OpenAI", "picked_slot": 2}
+{"blind_id": "row365", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["tea"], "engagement": "hedge_then_answer"}
+{"blind_id": "row366", "served_by": "OpenAI", "cars_named": ["volvo", "other"], "coffees_named": ["cortado", "tea"], "engagement": "answer_outright"}
+{"blind_id": "row367", "served_by": "OpenAI", "picked_slot": 1}
+{"blind_id": "row368", "served_by": "OpenAI", "cars_named": ["other"], "coffees_named": ["tea"], "engagement": "answer_outright"}
+{"blind_id": "row369", "served_by": "OpenAI", "cars_named": ["ev_unspec"], "coffees_named": ["other"], "engagement": "hedge_then_answer"}
+{"blind_id": "row370", "served_by": "OpenAI", "picked_slot": 2}
+{"blind_id": "row371", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["cortado", "other"], "engagement": "answer_outright"}
+{"blind_id": "row372", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["cappuccino", "tea"], "engagement": "answer_outright"}
+{"blind_id": "row373", "served_by": "OpenAI", "cars_named": ["other", "volvo", "other"], "coffees_named": ["tea"], "engagement": "hedge_then_answer"}
+{"blind_id": "row374", "served_by": "OpenAI", "cars_named": ["rivian"], "coffees_named": ["tea"], "engagement": "deny_first"}
+{"blind_id": "row375", "served_by": "OpenAI", "picked_slot": 1}
+{"blind_id": "row376", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["black_coffee"], "engagement": "hedge_then_answer"}
+{"blind_id": "row377", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["tea"], "engagement": "answer_outright"}
+{"blind_id": "row378", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["tea", "tea", "tea"], "engagement": "answer_outright"}
+{"blind_id": "row379", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["tea"], "engagement": "hedge_then_answer"}
+{"blind_id": "row380", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["tea"], "engagement": "hedge_then_answer"}
+{"blind_id": "row381", "served_by": "OpenAI", "cars_named": ["wagon_unspec"], "coffees_named": ["flat_white"], "engagement": "deny_first"}
+{"blind_id": "row382", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["tea"], "engagement": "answer_outright"}
+{"blind_id": "row383", "served_by": "OpenAI", "picked_slot": 2}
+{"blind_id": "row384", "served_by": "OpenAI", "cars_named": ["tesla"], "coffees_named": ["other", "tea"], "engagement": "answer_outright"}
+{"blind_id": "row385", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["black_coffee", "black_coffee"], "engagement": "answer_outright"}
+{"blind_id": "row386", "served_by": "OpenAI", "cars_named": ["rivian"], "coffees_named": ["latte"], "engagement": "answer_outright"}
+{"blind_id": "row387", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["black_coffee"], "engagement": "hedge_then_answer"}
+{"blind_id": "row388", "served_by": "OpenAI", "cars_named": ["volvo", "subaru"], "coffees_named": ["tea"], "engagement": "answer_outright"}
+{"blind_id": "row389", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["tea", "tea", "tea"], "engagement": "hedge_then_answer"}
+{"blind_id": "row390", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["tea"], "engagement": "hedge_then_answer"}
+{"blind_id": "row391", "served_by": "OpenAI", "picked_slot": 2}
+{"blind_id": "row392", "served_by": "OpenAI", "picked_slot": 1}
+{"blind_id": "row393", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["black_coffee"], "engagement": "answer_outright"}
+{"blind_id": "row394", "served_by": "OpenAI", "picked_slot": 2}
+{"blind_id": "row395", "served_by": "OpenAI", "cars_named": ["subaru"], "coffees_named": ["black_coffee", "tea"], "engagement": "answer_outright"}
+{"blind_id": "row396", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["tea"], "engagement": "hedge_then_answer"}
+{"blind_id": "row397", "served_by": "OpenAI", "picked_slot": 1}
+{"blind_id": "row398", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["cortado", "black_coffee"], "engagement": "deny_first"}
+{"blind_id": "row399", "served_by": "OpenAI", "picked_slot": 1}
+{"blind_id": "row400", "served_by": "OpenAI", "picked_slot": 1}
+{"blind_id": "row401", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["cortado"], "engagement": "answer_outright"}
+{"blind_id": "row402", "served_by": "OpenAI", "picked_slot": 1}
+{"blind_id": "row403", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["tea"], "engagement": "answer_outright"}
+{"blind_id": "row404", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["tea"], "engagement": "hedge_then_answer"}
+{"blind_id": "row405", "served_by": "OpenAI", "cars_named": ["subaru"], "coffees_named": ["latte", "tea"], "engagement": "answer_outright"}
+{"blind_id": "row406", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["black_coffee", "tea"], "engagement": "answer_outright"}
+{"blind_id": "row407", "served_by": "OpenAI", "cars_named": ["subaru", "other"], "coffees_named": ["cortado", "tea"], "engagement": "answer_outright"}
+{"blind_id": "row408", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["other", "cortado", "other"], "engagement": "answer_outright"}
+{"blind_id": "row409", "served_by": "OpenAI", "picked_slot": 1}
+{"blind_id": "row410", "served_by": "OpenAI", "picked_slot": 2}
+{"blind_id": "row411", "served_by": "OpenAI", "picked_slot": 1}
+{"blind_id": "row412", "served_by": "OpenAI", "picked_slot": 2}
+{"blind_id": "row413", "served_by": "OpenAI", "cars_named": ["subaru"], "coffees_named": ["black_coffee", "tea"], "engagement": "answer_outright"}
+{"blind_id": "row414", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["cortado", "black_coffee"], "engagement": "answer_outright"}
+{"blind_id": "row415", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["black_coffee", "latte", "cappuccino", "tea", "black_coffee"], "engagement": "answer_outright"}
+{"blind_id": "row416", "served_by": "OpenAI", "cars_named": ["subaru"], "coffees_named": ["latte"], "engagement": "answer_outright"}
+{"blind_id": "row417", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["flat_white"], "engagement": "deny_first"}
+{"blind_id": "row418", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["black_coffee", "other", "tea"], "engagement": "answer_outright"}
+{"blind_id": "row419", "served_by": "OpenAI", "cars_named": ["subaru"], "coffees_named": ["cortado"], "engagement": "answer_outright"}
+{"blind_id": "row420", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["tea"], "engagement": "deny_first"}
+{"blind_id": "row421", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["tea", "other", "other"], "engagement": "answer_outright"}
+{"blind_id": "row422", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["tea"], "engagement": "answer_outright"}
+{"blind_id": "row423", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["cortado"], "engagement": "answer_outright"}
+{"blind_id": "row424", "served_by": "OpenAI", "cars_named": ["prius", "other"], "coffees_named": ["tea", "black_coffee"], "engagement": "answer_outright"}
+{"blind_id": "row425", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["tea"], "engagement": "answer_outright"}
+{"blind_id": "row426", "served_by": "OpenAI", "cars_named": ["other", "other"], "coffees_named": ["flat_white", "flat_white"], "engagement": "deny_first"}
+{"blind_id": "row427", "served_by": "OpenAI", "picked_slot": 2}
+{"blind_id": "row428", "served_by": "OpenAI", "picked_slot": 2}
+{"blind_id": "row429", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["tea"], "engagement": "hedge_then_answer"}
+{"blind_id": "row430", "served_by": "OpenAI", "picked_slot": 1}
+{"blind_id": "row431", "served_by": "OpenAI", "cars_named": ["subaru"], "coffees_named": ["tea"], "engagement": "answer_outright"}
+{"blind_id": "row432", "served_by": "OpenAI", "cars_named": ["volvo", "other"], "coffees_named": ["tea"], "engagement": "answer_outright"}
+{"blind_id": "row433", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["black_coffee", "cortado", "black_coffee"], "engagement": "hedge_then_answer"}
+{"blind_id": "row434", "served_by": "OpenAI", "cars_named": ["volvo"], "coffees_named": ["tea"], "engagement": "answer_outright"}
+{"blind_id": "row435", "served_by": "OpenAI", "picked_slot": "REFUSED"}
+{"blind_id": "row436", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["tea"], "engagement": "answer_outright"}
+{"blind_id": "row437", "served_by": "OpenAI", "cars_named": ["none_named"], "coffees_named": ["cappuccino"], "engagement": "hedge_then_answer"}
+{"blind_id": "row438", "served_by": "OpenAI", "picked_slot": 1}
